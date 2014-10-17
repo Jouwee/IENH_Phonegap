@@ -1,0 +1,28 @@
+{
+    "attributes": {
+        "ui-map": {}
+    },
+    "elements": {
+        "ion-view": {
+            "attributes": {
+                "title": {}
+            }
+        },
+        "ion-nav-buttons": {
+            "attributes": {
+                "side": {}
+            }
+        },
+        "ion-nav-view": {},
+        "ion-content": {
+            "attributes": {
+                "class": {}
+            }
+        },
+        "ion-nav-bar": {
+            "attributes": {
+                "class": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<ion-view title="Mapa de NH">
+    <ion-content class="padding">
+        <button class="button button-small" ng-click="go('/')">Voltar</button>
+        <section id="map" ng-controller="MapCtrl" >
+            <div ng-repeat="marker in myMarkers" ui-map-marker="myMarkers[$index]" ui-event="{'map-click': 'openMarkerInfo(marker)'}"></div>
+            <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"></div>
+        </section>
+    </ion-content>
+</ion-view>

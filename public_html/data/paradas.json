@@ -1,0 +1,6956 @@
+{ "data": [
+  {
+    "logradouro":"Nicolau Becker",
+    "referencia":"BIG",
+    "latitude":"-29°40.928'",
+    "longitude":"-51°07.880'"
+  },
+  {
+    "logradouro":"Nicolau Becker",
+    "referencia":"Esq.com Sarquiz Sarquiz",
+    "latitude":"-29°40.788'",
+    "longitude":"-51°07.697'"
+  },
+  {
+    "logradouro":"Nicolau Becker",
+    "referencia":"Col.Wolfram Metzler",
+    "latitude":"-29°40.761'",
+    "longitude":"-51°07.516'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Frt 316",
+    "latitude":"-29°40.674'",
+    "longitude":"-51°07.181'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"587",
+    "latitude":"-29°40.577'",
+    "longitude":"-51°07.073'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"839",
+    "latitude":"-29°40.464'",
+    "longitude":"-51°06.943'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"977",
+    "latitude":"-29°40.405'",
+    "longitude":"-51°06.863'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"1534",
+    "latitude":"-29°40.340'",
+    "longitude":"-51°06.652'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Fundos Ottomit",
+    "latitude":"-29°40.328'",
+    "longitude":"-51°06.367'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2015",
+    "latitude":"-29°40.341'",
+    "longitude":"-51°06.164'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2233",
+    "latitude":"-29°40.392'",
+    "longitude":"-51°06.045'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2417",
+    "latitude":"-29°40.450'",
+    "longitude":"-51°05.907'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"lateral UPA",
+    "latitude":"-29°40.500'",
+    "longitude":"-51°05.761'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2721",
+    "latitude":"-29°40.527'",
+    "longitude":"-51°05.558'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2981",
+    "latitude":"-29°40.538'",
+    "longitude":"-51°05.419'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"65",
+    "latitude":"-29°40.588'",
+    "longitude":"-51°05.348'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"253",
+    "latitude":"-29°40.677'",
+    "longitude":"-51°05.362'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"777",
+    "latitude":"-29°40.976'",
+    "longitude":"-51°05.405'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Praça",
+    "latitude":"-29°41.067'",
+    "longitude":"-51°05.420'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Frt 1210",
+    "latitude":"-29°41.201'",
+    "longitude":"-51°05.434'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Esq. com Veneza",
+    "latitude":"-29°41.517'",
+    "longitude":"-51°05.484'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1913",
+    "latitude":"-29°41.647'",
+    "longitude":"-51°05.509'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Nova EMEI",
+    "latitude":"-29°41.746'",
+    "longitude":"-51°05.524'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"2590",
+    "latitude":"-29°41.891'",
+    "longitude":"-51°05.541'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"2820",
+    "latitude":"-29°41.988'",
+    "longitude":"-51°05.553'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"3000",
+    "latitude":"-29°42.102'",
+    "longitude":"-51°05.572'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Frt 3239",
+    "latitude":"-29°42.092'",
+    "longitude":"-51°05.572'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Frt 2905",
+    "latitude":"-29°42.206'",
+    "longitude":"-51°05.584'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1810",
+    "latitude":"-29°41.572'",
+    "longitude":"-51°05.485'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1743",
+    "latitude":"-29°41.493'",
+    "longitude":"-51°05.467'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1488",
+    "latitude":"-29°41.345",
+    "longitude":"-51°05.454'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1350",
+    "latitude":"-29°41.276'",
+    "longitude":"-51°05.442'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"1218",
+    "latitude":"-29°41.193'",
+    "longitude":"-51°05.430'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Praça",
+    "latitude":"-29°41.062'",
+    "longitude":"-51°05.412'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"756",
+    "latitude":"-29°40.965'",
+    "longitude":"-51°05.348'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"475",
+    "latitude":"-29°40.803'",
+    "longitude":"-51°05.377'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"Frt 205",
+    "latitude":"-29°40.661'",
+    "longitude":"-51°05.353'"
+  },
+  {
+    "logradouro":"Ícaro",
+    "referencia":"30",
+    "latitude":"-29°40.571'",
+    "longitude":"-51°05.341'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"3010",
+    "latitude":"-29°40.531'",
+    "longitude":"-51°05.388'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Frt 2841",
+    "latitude":"-29°40.522'",
+    "longitude":"-51°05.483'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Frt 2645",
+    "latitude":"-29°40.507'",
+    "longitude":"-51°05.629'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2478",
+    "latitude":"-29°40.494'",
+    "longitude":"-51°05.736'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2477",
+    "latitude":"-29°40.454'",
+    "longitude":"-51°05.876'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"2250",
+    "latitude":"-29°40.372'",
+    "longitude":"-51°06.063'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"1950",
+    "latitude":"-29°40.304'",
+    "longitude":"-51°06.214'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Igreja Batista Betel",
+    "latitude":"-29°40.327'",
+    "longitude":"-51°06.417'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"1546",
+    "latitude":"-29°40.337'",
+    "longitude":"-51°06.641'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"857",
+    "latitude":"-29°40.440'",
+    "longitude":"-51°06.936'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"574",
+    "latitude":"-29°40.564'",
+    "longitude":"-51°07.082'"
+  },
+  {
+    "logradouro":"Victor Hugo Kunz",
+    "referencia":"Frt 401",
+    "latitude":"-29°40.633'",
+    "longitude":"-51°07.156'"
+  },
+  {
+    "logradouro":"Nicolau Becker",
+    "referencia":"1221",
+    "latitude":"-29°40.739'",
+    "longitude":"-51°07.450 "
+  },
+  {
+    "logradouro":"Nicolau Becker",
+    "referencia":"Rapach",
+    "latitude":"-29°40.756'",
+    "longitude":"-51°07.676'"
+  },
+  {
+    "logradouro":"Castro Alves",
+    "referencia":"502",
+    "latitude":"-29°41.024'",
+    "longitude":"-51°08.216'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3946",
+    "latitude":"-29°41.289'",
+    "longitude":"-51°07.486'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3790",
+    "latitude":"-29°42.369'",
+    "longitude":"-51°06.466'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3640",
+    "latitude":"-29°42.342'",
+    "longitude":"-51°06.383 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3500",
+    "latitude":"-29°42.287'",
+    "longitude":"-51°06.292'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 3289",
+    "latitude":"-29°42.218'",
+    "longitude":"-51°06.186'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3135",
+    "latitude":"-29°42.193'",
+    "longitude":"-51°06.148'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2900",
+    "latitude":"-29°42.123'",
+    "longitude":"-51°06.048'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2800",
+    "latitude":"-29°42.051'",
+    "longitude":"-51°06.006'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2658",
+    "latitude":"-29°41.981'",
+    "longitude":"-51°05.995'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2606",
+    "latitude":"-29°41.907'",
+    "longitude":"-51°05.992'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2400",
+    "latitude":"-29°41.847'",
+    "longitude":"-51°05.988 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2258",
+    "latitude":"-29°41.788'",
+    "longitude":"-51°05.983 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2120",
+    "latitude":"-29°41.698'",
+    "longitude":"-51°05.973'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2001",
+    "latitude":"-29°41.571'",
+    "longitude":"-51°05.963'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1580",
+    "latitude":"-29°41.403'",
+    "longitude":"-51°05.948'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1316",
+    "latitude":"-29°41.271'",
+    "longitude":"-51°05.932'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1162",
+    "latitude":"-29°41.181'",
+    "longitude":"-51°05.924'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"930",
+    "latitude":"-29°41.059'",
+    "longitude":"-51°05.911 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"708",
+    "latitude":"-29°41.928'",
+    "longitude":"-51°05.896'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"538",
+    "latitude":"-29°40.816'",
+    "longitude":"-51°05.876'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"282",
+    "latitude":"-29°40.700'",
+    "longitude":"-51°05.856'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"23",
+    "latitude":"-29°40.520'",
+    "longitude":"-51°05.823'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"9",
+    "latitude":"-29°40.505'",
+    "longitude":"-51°05.824 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"159",
+    "latitude":"-29°40.643'",
+    "longitude":"-51°05.848'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 538",
+    "latitude":"-29°40.843'",
+    "longitude":"-51°05.885'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"741",
+    "latitude":"-29°40.956'",
+    "longitude":"-51°05.903'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"921",
+    "latitude":"-29°41.052'",
+    "longitude":"-51°05.903'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 1126",
+    "latitude":"-29°41.164'",
+    "longitude":"-51°05.926'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1335",
+    "latitude":"-29°41.272'",
+    "longitude":"-51°05.937'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1589",
+    "latitude":"-29°41.408'",
+    "longitude":"-51°05.952'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"1931",
+    "latitude":"-29°41.588'",
+    "longitude":"-51°05.968'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2162",
+    "latitude":"-29°41.714'",
+    "longitude":"-51°05.984'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2291",
+    "latitude":"-29°41.785'",
+    "longitude":"-51°05.987'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2379",
+    "latitude":"-29°41.841'",
+    "longitude":"-51°05.995'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 2578",
+    "latitude":"-29°41.933",
+    "longitude":"-51°06.003 "
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"2669",
+    "latitude":"-29°41.991'",
+    "longitude":"-51°06.008'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 2800",
+    "latitude":"-29°42.054'",
+    "longitude":"-51°06.014'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 2900",
+    "latitude":"-29°42.117'",
+    "longitude":"-51°06.054'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 3135",
+    "latitude":"-29°42.182'",
+    "longitude":"-51°06.147'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3289",
+    "latitude":"-29°42.233'",
+    "longitude":"-51°06.219'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 3500",
+    "latitude":"-29°42.296'",
+    "longitude":"-51°06.306'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"Frt 3640",
+    "latitude":"-29°42.341'",
+    "longitude":"-51°06.384'"
+  },
+  {
+    "logradouro":"Bartolomeu de Gusmão",
+    "referencia":"3835",
+    "latitude":"-29°42.379'",
+    "longitude":"-51°06.503'"
+  },
+  {
+    "logradouro":"Paradão",
+    "referencia":"Plataforma 2 e 3",
+    "latitude":"-29°41.245'",
+    "longitude":"-51°07.793'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Esq. Frederico Linck",
+    "latitude":"-29°41.452'",
+    "longitude":"-51°07.764'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"831",
+    "latitude":"-29°41.499'",
+    "longitude":"-51°07.755'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1111",
+    "latitude":"-29°41.655'",
+    "longitude":"-51°07.391'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1399",
+    "latitude":"-29°41.774'",
+    "longitude":"-51°07.873'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1661",
+    "latitude":"-29°41.877'",
+    "longitude":"-51°07.937'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1813",
+    "latitude":"-29°41.978'",
+    "longitude":"-51°07.983'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2177",
+    "latitude":"-29°42.195'",
+    "longitude":"-51°08.010'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2383",
+    "latitude":"-29°42.317'",
+    "longitude":"-51°08.027'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Frt 2570",
+    "latitude":"-29°42.585'",
+    "longitude":"-51°08.058'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3220",
+    "latitude":"-29°42.761'",
+    "longitude":"-51°08.031 "
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3445",
+    "latitude":"-29°42.838'",
+    "longitude":"-51°08.055 "
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Estação Industrial",
+    "latitude":"-29°42.880'",
+    "longitude":"-51°08.077'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3791",
+    "latitude":"-29°43.034'",
+    "longitude":"-51°08.135'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3973",
+    "latitude":"-29°43.036'",
+    "longitude":"-51°08.181'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4213",
+    "latitude":"-29°43.245'",
+    "longitude":"-51°08.223'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4311",
+    "latitude":"-29°43.305'",
+    "longitude":"-51°08.248'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4499",
+    "latitude":"-29°43.393'",
+    "longitude":"-51°08.284'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4765",
+    "latitude":"-29°43.544'",
+    "longitude":"-51°08.345'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4989",
+    "latitude":"-29°43.637'",
+    "longitude":"-51°08.373'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Estação Santo Afonso",
+    "latitude":"-29°43.851'",
+    "longitude":"-51°08.460'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Estação Santo Afonso",
+    "latitude":"-29°43.846'",
+    "longitude":"-51°08.430'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"6120",
+    "latitude":"-29°43.646'",
+    "longitude":"-51°08.360'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4736",
+    "latitude":"-29°43.540'",
+    "longitude":"-51°08.317'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4440",
+    "latitude":"-29°43.386'",
+    "longitude":"-51°08.264'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4405",
+    "latitude":"-29°43.337'",
+    "longitude":"-51°08.244'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"4146",
+    "latitude":"-29°43.217'",
+    "longitude":"-51°08.196'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3903",
+    "latitude":"-29°43.150'",
+    "longitude":"-51°08.116'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3790",
+    "latitude":"-29°43.150'",
+    "longitude":"-51°08.108'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Estação Industrial",
+    "latitude":"-29°42.910",
+    "longitude":"-51°08.070'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"3130",
+    "latitude":"-29°42.685'",
+    "longitude":"-51°08.017'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2870",
+    "latitude":"-29°42.579'",
+    "longitude":"-51°08.036'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2760",
+    "latitude":"-29°42.465'",
+    "longitude":"-51°08.054'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2383",
+    "latitude":"-29°42.272'",
+    "longitude":"-51°08.006'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"2053",
+    "latitude":"-29°42.11'",
+    "longitude":"-51°07.979'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1715",
+    "latitude":"-29°41.909'",
+    "longitude":"-51°07.936'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Frt 1417",
+    "latitude":"-29°41.786'",
+    "longitude":"-51°07.864'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"1176",
+    "latitude":"-29°41.670'",
+    "longitude":"-51°07.781'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"988",
+    "latitude":"-29°41.575'",
+    "longitude":"-51°07.738'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"762",
+    "latitude":"-29°41.429'",
+    "longitude":"-51°07.744'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"frt agência central correios",
+    "latitude":"-29°41.206'",
+    "longitude":"-51°07.800'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Praça 20 de Setembro",
+    "latitude":"-29°41.114'",
+    "longitude":"-51°07.820'"
+  },
+  {
+    "logradouro":"1° de Março",
+    "referencia":"Plataforma 1",
+    "latitude":"-29°41.085'",
+    "longitude":"-51°07.828'"
+  },
+  {
+    "logradouro":"Dr.Magalhães Calvet",
+    "referencia":"160",
+    "latitude":"-29°40.976'",
+    "longitude":"-51°07.865'"
+  },
+  {
+    "logradouro":"Dr.Magalhães Calvet",
+    "referencia":"157",
+    "latitude":"-29°40.986'",
+    "longitude":"-51°07.855'"
+  },
+  {
+    "logradouro":"Dr.Magalhães Calvet",
+    "referencia":"258",
+    "latitude":"-29°40.948'",
+    "longitude":"-51°07.865'"
+  },
+  {
+    "logradouro":"Júlio de Castilhos",
+    "referencia":"22",
+    "latitude":"-29°40.957'",
+    "longitude":"-51°07.855'"
+  },
+  {
+    "logradouro":"Júlio de Castilhos",
+    "referencia":"258",
+    "latitude":"-29°40.932'",
+    "longitude":"-51°07.722'"
+  },
+  {
+    "logradouro":"Júlio de Castilhos",
+    "referencia":"561",
+    "latitude":"-29°40.864'",
+    "longitude":"-51°07.505'"
+  },
+  {
+    "logradouro":"Júlio de Castilhos",
+    "referencia":"806",
+    "latitude":"-29°40.808'",
+    "longitude":"-51°07.377'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"248",
+    "latitude":"-29°40.765'",
+    "longitude":"-51°07.222'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"478",
+    "latitude":"-29°40.674'",
+    "longitude":"-51°07.102'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"545",
+    "latitude":"-29°40.618'",
+    "longitude":"-51°07.051'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"943",
+    "latitude":"-29°40.500'",
+    "longitude":"-51°06.913'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"630",
+    "latitude":"-29°40.415'",
+    "longitude":"-51°06.745'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"1141",
+    "latitude":"-29°40.388'",
+    "longitude":"-51°06.434'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"1889",
+    "latitude":"-29°40.527'",
+    "longitude":"-51°06.191'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"esq.com Adolfo Lutz",
+    "latitude":"-29°40.579'",
+    "longitude":"-51°06.070'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"2130",
+    "latitude":"-29°40.565'",
+    "longitude":"-51°05.427'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"1762",
+    "latitude":"-29°40.552'",
+    "longitude":"-51°06.131'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"1322",
+    "latitude":"-29°40.399'",
+    "longitude":"-51°06.384'"
+  },
+  {
+    "logradouro":"Gal.Daltro Filho",
+    "referencia":"740",
+    "latitude":"-29°40.426'",
+    "longitude":"-51°06.679'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"964",
+    "latitude":"-29°40.510'",
+    "longitude":"-51°06.458'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"614",
+    "latitude":"-29°40.636'",
+    "longitude":"-51°07.058'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"405",
+    "latitude":"-29°40.716'",
+    "longitude":"-51°07.149'"
+  },
+  {
+    "logradouro":"General Osório",
+    "referencia":"192",
+    "latitude":"-29°40.767'",
+    "longitude":"-51°07.249'"
+  },
+  {
+    "logradouro":"Domingos de Almeida",
+    "referencia":"715",
+    "latitude":"-29°40.758'",
+    "longitude":"-51°07.300'"
+  },
+  {
+    "logradouro":"Domingos de Almeida",
+    "referencia":"490",
+    "latitude":"-29°40.819'",
+    "longitude":"-51°07.491'"
+  },
+  {
+    "logradouro":"Domingos de Almeida",
+    "referencia":"200",
+    "latitude":"-29°40.838'",
+    "longitude":"-51°07.514'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"599",
+    "latitude":"-29°41.325'",
+    "longitude":"-51°08.179'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"901",
+    "latitude":"-29°41.302'",
+    "longitude":"-51°07.478'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"1136",
+    "latitude":"-29°41.275'",
+    "longitude":"-51°07.853'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"1181",
+    "latitude":"-29°41.276'",
+    "longitude":"-51°07.821'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"1805",
+    "latitude":"-29°41.299'",
+    "longitude":"-51°07.471'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4775",
+    "latitude":"-29°41.435'",
+    "longitude":"-51°07.208'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4524",
+    "latitude":"-29°41.544'",
+    "longitude":"-51°07.135'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4304",
+    "latitude":"-29°41.624'",
+    "longitude":"-51°07.077'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4200",
+    "latitude":"-29°41.743'",
+    "longitude":"-51°07.016'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4544",
+    "latitude":"-29°41.873'",
+    "longitude":"-51°07.961'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3580",
+    "latitude":"-29°41.976'",
+    "longitude":"-51°06.857'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3416",
+    "latitude":"-29°42.059'",
+    "longitude":"-51°06.793'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3175",
+    "latitude":"-29°42.193'",
+    "longitude":"-51°06.740'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2032",
+    "latitude":"-29°42.319'",
+    "longitude":"-51°06.648'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2121",
+    "latitude":"-29°42.432'",
+    "longitude":"-51°06.594'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2365",
+    "latitude":"-29°42.544'",
+    "longitude":"-51°06.637'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2114",
+    "latitude":"-29°42.695'",
+    "longitude":"-51°06.666'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1825",
+    "latitude":"-29°42.836'",
+    "longitude":"-51°06.694'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1460",
+    "latitude":"-29°42.946'",
+    "longitude":"-51°06.842'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1291",
+    "latitude":"-29°42.955'",
+    "longitude":"-51°06.964'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1158",
+    "latitude":"-29°42.988'",
+    "longitude":"-51°07.060'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"888",
+    "latitude":"-29°42.995'",
+    "longitude":"-51°07.213'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"Frt 420",
+    "latitude":"-29°43.052'",
+    "longitude":"-51°07.474'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"669",
+    "latitude":"-29°43.014'",
+    "longitude":"-51°07.340'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"939",
+    "latitude":"-29°43.002'",
+    "longitude":"-51°07.177'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1171",
+    "latitude":"-29°42.987'",
+    "longitude":"-51°07.036'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1532",
+    "latitude":"-29°42.942'",
+    "longitude":"-51°06.820'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"1881",
+    "latitude":"-29°42.822'",
+    "longitude":"-51°06.667'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2114",
+    "latitude":"-29°42.705'",
+    "longitude":"-51°06.660'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"2755",
+    "latitude":"-29°42.375'",
+    "longitude":"-51°06.600'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"Frt 2920",
+    "latitude":"-29°42.316'",
+    "longitude":"-51°06.638'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3110",
+    "latitude":"-29°42.198'",
+    "longitude":"-51°06.721'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3416",
+    "latitude":"-29°42.063'",
+    "longitude":"-51°06.780'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3583",
+    "latitude":"-29°41.971'",
+    "longitude":"-51°06.848'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"3970",
+    "latitude":"-29°41.879'",
+    "longitude":"-51°06.944'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"lateral Foro",
+    "latitude":"-29°41.793'",
+    "longitude":"-51°06.988'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4441",
+    "latitude":"-29°41.617'",
+    "longitude":"-51°07.073'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4580",
+    "latitude":"-29°41.528'",
+    "longitude":"-51°07.141'"
+  },
+  {
+    "logradouro":"Guia Lopes",
+    "referencia":"4789",
+    "latitude":"-29°41.393'",
+    "longitude":"-51°07.232'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1406",
+    "latitude":"-29°43.123'",
+    "longitude":"-51°07.772'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1330",
+    "latitude":"-29°43.179'",
+    "longitude":"-51°07.793'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"Sagrado coração",
+    "latitude":"-29°43.282'",
+    "longitude":"-51°07.938'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"688",
+    "latitude":"-29°43.428'",
+    "longitude":"-51°07.088'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"350",
+    "latitude":"-29°43.558'",
+    "longitude":"-51°07.214'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"164",
+    "latitude":"-29°43.638'",
+    "longitude":"-51°08.314'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"655",
+    "latitude":"-29°43.643'",
+    "longitude":"-51°08.300'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1069",
+    "latitude":"-29°43.275'",
+    "longitude":"-51°07.904'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1435",
+    "latitude":"-29°43.143'",
+    "longitude":"-51°07.732'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1679",
+    "latitude":"-29°43.020'",
+    "longitude":"-51°07.721'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1784",
+    "latitude":"-29°42.967'",
+    "longitude":"-51°07.743'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1971",
+    "latitude":"-29°42.868'",
+    "longitude":"-51°07.771'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2103",
+    "latitude":"-29°42.774",
+    "longitude":"-51°07.744'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2408",
+    "latitude":"-29°42.636'",
+    "longitude":"-51°07.830'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2561",
+    "latitude":"-29°42.526'",
+    "longitude":"-51°07.855'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2831",
+    "latitude":"-29°42.368'",
+    "longitude":"-51°07.895'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3137",
+    "latitude":"-29°42.246'",
+    "longitude":"-51°07.926'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3392",
+    "latitude":"-29°42.122'",
+    "longitude":"-51°07.940'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3539",
+    "latitude":"-29°42.030'",
+    "longitude":"-51°07.913'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3781",
+    "latitude":"-29°41.903'",
+    "longitude":"-51°07.866'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"4144",
+    "latitude":"-29°41.773'",
+    "longitude":"-51°07.787'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"4311",
+    "latitude":"-29°41.683'",
+    "longitude":"-51°07.726'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"6079",
+    "latitude":"-29°40.751'",
+    "longitude":"-51°07.848'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"6485",
+    "latitude":"-29°40.526'",
+    "longitude":"-51°07.893'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"6760",
+    "latitude":"-29°40.384'",
+    "longitude":"-51°07.921'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"6469",
+    "latitude":"-29°40.548'",
+    "longitude":"-51°07.901'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"Frt 6079",
+    "latitude":"-29°41.646'",
+    "longitude":"-51°06.547'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"5903",
+    "latitude":"-29°41.645'",
+    "longitude":"-51°06.842'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"Frente ao Fraternal",
+    "latitude":"-29°41.845'",
+    "longitude":"-51°07.835'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3680",
+    "latitude":"-29°41.975'",
+    "longitude":"-51°07.906'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3466",
+    "latitude":"-29°42.077'",
+    "longitude":"-51°07.937'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"3117",
+    "latitude":"-29°42.260'",
+    "longitude":"-51°07.933'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2831",
+    "latitude":"-29°42.383'",
+    "longitude":"-51°07.903'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2646",
+    "latitude":"-29°42.492'",
+    "longitude":"-51°07.874'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2518",
+    "latitude":"-29°42.588'",
+    "longitude":"-51°07.851'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"2325",
+    "latitude":"-29°42.682'",
+    "longitude":"-51°07.825'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1928",
+    "latitude":"-29°42.884'",
+    "longitude":"-51°07.777'"
+  },
+  {
+    "logradouro":"Pedro Adams Filho",
+    "referencia":"1688",
+    "latitude":"-29°43.023'",
+    "longitude":"-51°07.743'"
+  },
+  {
+    "logradouro":"Granada",
+    "referencia":"57",
+    "latitude":"-29°38.281'",
+    "longitude":"-51°08.471'"
+  },
+  {
+    "logradouro":"Granada",
+    "referencia":"147",
+    "latitude":"-29°38.283'",
+    "longitude":"-51°08.111'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"1090",
+    "latitude":"-29°38.304'",
+    "longitude":"-51°08.411'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"960",
+    "latitude":"-29°38.371'",
+    "longitude":"-51°08.340'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"856",
+    "latitude":"-29°38.423'",
+    "longitude":"-51°08.351'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"Frt 741",
+    "latitude":"-29°38.485'",
+    "longitude":"-51°08.361'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"610",
+    "latitude":"-29°38.566'",
+    "longitude":"-51°08.376'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"394",
+    "latitude":"-29°38.673'",
+    "longitude":"-51°08.395'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"262",
+    "latitude":"-29°38.746'",
+    "longitude":"-51°08.410'"
+  },
+  {
+    "logradouro":"Francisco Alves",
+    "referencia":"42",
+    "latitude":"-29°38.856'",
+    "longitude":"-51°08.428'"
+  },
+  {
+    "logradouro":"Benjamin Altamayer",
+    "referencia":"Frt 249",
+    "latitude":"-29°38.910'",
+    "longitude":"-51°08.476'"
+  },
+  {
+    "logradouro":"Benjamin Altamayer",
+    "referencia":"123",
+    "latitude":"-29°38.179'",
+    "longitude":"-51°08.661'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1377",
+    "latitude":"-29°39.387'",
+    "longitude":"-51°06.191'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"2007",
+    "latitude":"-29°39.295'",
+    "longitude":"-51°06.274'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"2123",
+    "latitude":"-29°39.214'",
+    "longitude":"-51°06.164'"
+  },
+  {
+    "logradouro":"Roquete Pinto",
+    "referencia":"162",
+    "latitude":"-29°39.131'",
+    "longitude":"-51°06.335'"
+  },
+  {
+    "logradouro":"Monteiro Lobato",
+    "referencia":"300",
+    "latitude":"-29°39.166'",
+    "longitude":"-51°06.234'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"2090",
+    "latitude":"-29°39.218'",
+    "longitude":"-51°06.159'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1919",
+    "latitude":"-29°39.334'",
+    "longitude":"-51°06.180'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1762",
+    "latitude":"-29°39.398'",
+    "longitude":"-51°06.192'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1592",
+    "latitude":"-29°39.480'",
+    "longitude":"-51°06.208'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1376",
+    "latitude":"-29°39.608'",
+    "longitude":"-51°06.229'"
+  },
+  {
+    "logradouro":"Chapecó",
+    "referencia":"60",
+    "latitude":"-29°39.366'",
+    "longitude":"-51°06.270'"
+  },
+  {
+    "logradouro":"Chapecó",
+    "referencia":"201",
+    "latitude":"-29°39.357'",
+    "longitude":"-51°06.218'"
+  },
+  {
+    "logradouro":"Chapecó",
+    "referencia":"1781",
+    "latitude":"-29°39.233'",
+    "longitude":"-51°06.112'"
+  },
+  {
+    "logradouro":"Chapecó",
+    "referencia":"410",
+    "latitude":"-29°39.367'",
+    "longitude":"-51°06.127'"
+  },
+  {
+    "logradouro":"Roquete Pinto",
+    "referencia":"31",
+    "latitude":"-29°39.076'",
+    "longitude":"-51°06.191'"
+  },
+  {
+    "logradouro":"Ervino Weber",
+    "referencia":"156",
+    "latitude":"-29°39.055'",
+    "longitude":"-51°06.191'"
+  },
+  {
+    "logradouro":"Germano Gehardt",
+    "referencia":"728",
+    "latitude":"-29°39.220'",
+    "longitude":"-51°06.058'"
+  },
+  {
+    "logradouro":"Germano Gehardt",
+    "referencia":"585",
+    "latitude":"-29°39.274'",
+    "longitude":"-51°06.068'"
+  },
+  {
+    "logradouro":"Germano Gehardt",
+    "referencia":"369",
+    "latitude":"-29°39.323'",
+    "longitude":"-51°06.077'"
+  },
+  {
+    "logradouro":"Germano Gehardt",
+    "referencia":"304",
+    "latitude":"-29°35.367'",
+    "longitude":"-51°06.084'"
+  },
+  {
+    "logradouro":"Lima",
+    "referencia":"68",
+    "latitude":"-29°43.384'",
+    "longitude":"-51°07.961'"
+  },
+  {
+    "logradouro":"México",
+    "referencia":"175",
+    "latitude":"-29°43.415'",
+    "longitude":"-51°07.922'"
+  },
+  {
+    "logradouro":"México",
+    "referencia":"701",
+    "latitude":"-29°43.714'",
+    "longitude":"-51°07.761'"
+  },
+  {
+    "logradouro":"Punta arenas",
+    "referencia":"136",
+    "latitude":"-29°43.415'",
+    "longitude":"-51°07.749'"
+  },
+  {
+    "logradouro":"Punta arenas",
+    "referencia":"313",
+    "latitude":"-29°43.887'",
+    "longitude":"-51°07.828'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"980",
+    "latitude":"-29°43.902'",
+    "longitude":"-51°07.873'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"639",
+    "latitude":"-29°43.766'",
+    "longitude":"-51°07.023'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"203",
+    "latitude":"-29°43.593'",
+    "longitude":"-51°08.211'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"233",
+    "latitude":"-29°43.604'",
+    "longitude":"-51°08.208'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"325",
+    "latitude":"-29°43.649'",
+    "longitude":"-51°08.160'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"431",
+    "latitude":"-29°43.704'",
+    "longitude":"-51°08.099'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"639",
+    "latitude":"-29°43.773'",
+    "longitude":"-51°08.022'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"851",
+    "latitude":"-29°43.848'",
+    "longitude":"-51°08.943'"
+  },
+  {
+    "logradouro":"Valparaíso",
+    "referencia":"980",
+    "latitude":"-29°43.914'",
+    "longitude":"-51°08.912'"
+  },
+  {
+    "logradouro":"Punta arenas",
+    "referencia":"206",
+    "latitude":"-29°43.874'",
+    "longitude":"-51°07.801'"
+  },
+  {
+    "logradouro":"Punta arenas",
+    "referencia":"240",
+    "latitude":"-29°43.822'",
+    "longitude":"-51°07.743'"
+  },
+  {
+    "logradouro":"México",
+    "referencia":"858",
+    "latitude":"-29°43.766'",
+    "longitude":"-51°07.692'"
+  },
+  {
+    "logradouro":"México",
+    "referencia":"701",
+    "latitude":"-29°43.707'",
+    "longitude":"-51°07.757'"
+  },
+  {
+    "logradouro":"México",
+    "referencia":"434",
+    "latitude":"-29°43.610'",
+    "longitude":"-51°07.866'"
+  },
+  {
+    "logradouro":"Montevideo",
+    "referencia":"272",
+    "latitude":"-29°43564'",
+    "longitude":"-51°07.898'"
+  },
+  {
+    "logradouro":"Lima",
+    "referencia":"323",
+    "latitude":"-29°43.484'",
+    "longitude":"-51°07.845'"
+  },
+  {
+    "logradouro":"Ipê",
+    "referencia":" Esq. figueira",
+    "latitude":"-29°42.567'",
+    "longitude":"-51°08.094'"
+  },
+  {
+    "logradouro":"Ipê",
+    "referencia":"280",
+    "latitude":"-29°42.577'",
+    "longitude":"-51°08.220'"
+  },
+  {
+    "logradouro":"Ipê",
+    "referencia":"374",
+    "latitude":"-29°42.583'",
+    "longitude":"-51°08.293'"
+  },
+  {
+    "logradouro":"Ipê",
+    "referencia":"543",
+    "latitude":"-29°42.586'",
+    "longitude":"-51°08.389'"
+  },
+  {
+    "logradouro":"Acacias",
+    "referencia":"322",
+    "latitude":"-29°42.608'",
+    "longitude":"-51°08.529'"
+  },
+  {
+    "logradouro":"Acacias",
+    "referencia":"184",
+    "latitude":"-29°42.674'",
+    "longitude":"-51°08.566'"
+  },
+  {
+    "logradouro":"Acacias",
+    "referencia":"Esq. 7 de setembro",
+    "latitude":"-29°42.703'",
+    "longitude":"-51°08.628'"
+  },
+  {
+    "logradouro":"Rio cambará",
+    "referencia":"Esq. 7 de setembro",
+    "latitude":"-29°42.801'",
+    "longitude":"-51°08.683'"
+  },
+  {
+    "logradouro":"Rio cambará",
+    "referencia":"105",
+    "latitude":"-29°42.889'",
+    "longitude":"-51°08.672'"
+  },
+  {
+    "logradouro":" Rio Oiapoc",
+    "referencia":"155",
+    "latitude":"-29°42.947'",
+    "longitude":"-51°08.637'"
+  },
+  {
+    "logradouro":" Rio Xingu",
+    "referencia":"128",
+    "latitude":"-29°42.937'",
+    "longitude":"-51°08.536'"
+  },
+  {
+    "logradouro":" Rio Xingu",
+    "referencia":"Esq.rio Iguaçu",
+    "latitude":"-29°42.879'",
+    "longitude":"-51°05.427'"
+  },
+  {
+    "logradouro":"Rio Branco",
+    "referencia":"313",
+    "latitude":"-29°42.789'",
+    "longitude":"-51°08.433'"
+  },
+  {
+    "logradouro":"Rio Branco",
+    "referencia":"6",
+    "latitude":"-29°42.866'",
+    "longitude":"-51°08.298'"
+  },
+  {
+    "logradouro":"Timbaúva",
+    "referencia":"Campo do liberdade",
+    "latitude":"-29°42.942'",
+    "longitude":"-51°08.280'"
+  },
+  {
+    "logradouro":"Rio Tocantins",
+    "referencia":"123",
+    "latitude":"-29°42.948'",
+    "longitude":"-51°08.171'"
+  },
+  {
+    "logradouro":"Pau Brasil",
+    "referencia":"275",
+    "latitude":"-29°42.865",
+    "longitude":"-51°08.174'"
+  },
+  {
+    "logradouro":"Rio Amazonas",
+    "referencia":"65",
+    "latitude":"-29°42.862'",
+    "longitude":"-51°08.102'"
+  },
+  {
+    "logradouro":"Av.São Leo Res.R.Branco",
+    "referencia":"1221",
+    "latitude":"-29°41.131'",
+    "longitude":"-51°04.964'"
+  },
+  {
+    "logradouro":"Res.Alc.Octavio Os.Bender",
+    "referencia":"1022",
+    "latitude":"-29°41.189'",
+    "longitude":"-51°04.660'"
+  },
+  {
+    "logradouro":"Res.Alc.Octavio Os.Bender",
+    "referencia":"751",
+    "latitude":"-29°41.346'",
+    "longitude":"-51°04.703'"
+  },
+  {
+    "logradouro":"Res.Alc.Octavio Os.Bender",
+    "referencia":"565",
+    "latitude":"-29°41.446'",
+    "longitude":"-51°04.717'"
+  },
+  {
+    "logradouro":"Res.Alc.Octavio Os.Bender",
+    "referencia":"423",
+    "latitude":"-29°41.525'",
+    "longitude":"-51°04.729'"
+  },
+  {
+    "logradouro":"Res.Alc.Octavio Os.Bender",
+    "referencia":"277",
+    "latitude":"-29°41.607'",
+    "longitude":"-51°04.741'"
+  },
+  {
+    "logradouro":"R.da Divisa CASE",
+    "referencia":"CASE",
+    "latitude":"-29°41.743'",
+    "longitude":"-51°04.661'"
+  },
+  {
+    "logradouro":"Av.dos Municip. (marisol)",
+    "referencia":"",
+    "latitude":"-29°42.086'",
+    "longitude":"-51°04.769'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"160",
+    "latitude":"-29°42.096'",
+    "longitude":"-51°05.144'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"256",
+    "latitude":"-29°42.006.'",
+    "longitude":"-51°05.130'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"434",
+    "latitude":"-29°41.864'",
+    "longitude":"-51°05.108'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"664",
+    "latitude":"-29°41.773'",
+    "longitude":"-51°05.095'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"849",
+    "latitude":"-29°41.677'",
+    "longitude":"-51°05.078'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"977",
+    "latitude":"-29°41.606'",
+    "longitude":"-51°05.066'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"1301",
+    "latitude":"-29°41.465'",
+    "longitude":"-51°05.046'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"1441",
+    "latitude":"-29°41.361'",
+    "longitude":"-51°05.032'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"1643",
+    "latitude":"-29°41.252'",
+    "longitude":"-51°05.018'"
+  },
+  {
+    "logradouro":"Ademar Eugenio Grin",
+    "referencia":"114",
+    "latitude":"-29°41.224'",
+    "longitude":"-51°05.083'"
+  },
+  {
+    "logradouro":"Angelo provensano",
+    "referencia":"393",
+    "latitude":"-29°41.146'",
+    "longitude":"-51°05.134'"
+  },
+  {
+    "logradouro":"Angelo provensano",
+    "referencia":"146",
+    "latitude":"-29°41.010'",
+    "longitude":"-51°05.116'"
+  },
+  {
+    "logradouro":"Angelo provensano",
+    "referencia":"29",
+    "latitude":"-29°40.959'",
+    "longitude":"-51°05.108'"
+  },
+  {
+    "logradouro":"São leopoldo",
+    "referencia":"Esq. Atenas",
+    "latitude":"-29°40.654'",
+    "longitude":"-51°05.250'"
+  },
+  {
+    "logradouro":"São leopoldo",
+    "referencia":"",
+    "latitude":"-29°40.849'",
+    "longitude":"-51°05.191'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"",
+    "latitude":"-29°41.881'",
+    "longitude":"-51°05.116'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"231",
+    "latitude":"-29°42.032'",
+    "longitude":"-51°05.136'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"162",
+    "latitude":"-29°42.110'",
+    "longitude":"-51°05.147'"
+  },
+  {
+    "logradouro":"Bruno werner storck",
+    "referencia":"99",
+    "latitude":"-29°42.225'",
+    "longitude":"-51°05.159'"
+  },
+  {
+    "logradouro":"Otavio Oscar Bender",
+    "referencia":"13",
+    "latitude":"-29°41.717'",
+    "longitude":"-51°04.661'"
+  },
+  {
+    "logradouro":"Otavio Oscar Bender",
+    "referencia":"751",
+    "latitude":"-29°41.347'",
+    "longitude":"-51°04.698'"
+  },
+  {
+    "logradouro":"Baurú",
+    "referencia":"170",
+    "latitude":"-29°40.671'",
+    "longitude":"-51°06.108'"
+  },
+  {
+    "logradouro":"Florença",
+    "referencia":"284",
+    "latitude":"-29°40.735'",
+    "longitude":"-51°06.094'"
+  },
+  {
+    "logradouro":"Adolfo Lutz",
+    "referencia":"334",
+    "latitude":"-29°40.754'",
+    "longitude":"-51°06.061'"
+  },
+  {
+    "logradouro":"Adolfo Lutz",
+    "referencia":"587",
+    "latitude":"-29°40.897'",
+    "longitude":"-51°06.074'"
+  },
+  {
+    "logradouro":"Adolfo Lutz",
+    "referencia":"796",
+    "latitude":"-29°40.001'",
+    "longitude":"-51°06.090'"
+  },
+  {
+    "logradouro":"Irmã Amalia",
+    "referencia":"124",
+    "latitude":"-29°40.178'",
+    "longitude":"-51°06.115'"
+  },
+  {
+    "logradouro":"Irmã Amalia",
+    "referencia":"Esq.Gustavo Feltes",
+    "latitude":"-29°40.128'",
+    "longitude":"-51°06.334'"
+  },
+  {
+    "logradouro":"Irmã Amalia",
+    "referencia":"535",
+    "latitude":"-29°41.103'",
+    "longitude":"-51°06.371'"
+  },
+  {
+    "logradouro":"Vidal Brasil",
+    "referencia":"730",
+    "latitude":"-29°40.969'",
+    "longitude":"-51°06.362'"
+  },
+  {
+    "logradouro":"Vidal Brasil",
+    "referencia":"637",
+    "latitude":"-29°40.818'",
+    "longitude":"-51°06.354'"
+  },
+  {
+    "logradouro":"Florença",
+    "referencia":"1660",
+    "latitude":"-29°40.700'",
+    "longitude":"-51°06.377'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"Esq. Tarso Dutra",
+    "latitude":"-29°40.747'",
+    "longitude":"-51°06.443'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"930",
+    "latitude":"-29°40.890'",
+    "longitude":"-51°06.431'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"1018",
+    "latitude":"-29°40.005'",
+    "longitude":"-51°06.457'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"800",
+    "latitude":"-29°41.052'",
+    "longitude":"-51°06.464'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"1370",
+    "latitude":"-29°41.257'",
+    "longitude":"-51°06.486'"
+  },
+  {
+    "logradouro":"B.Santo Angelo",
+    "referencia":"Hosp.Unimed",
+    "latitude":"-29°41.318'",
+    "longitude":"-51°06.492'"
+  },
+  {
+    "logradouro":"Vidal Brasil",
+    "referencia":"1668",
+    "latitude":"-29°41.351'",
+    "longitude":"-51°06.412'"
+  },
+  {
+    "logradouro":"Sapiranga",
+    "referencia":"1010",
+    "latitude":"-29°41.425'",
+    "longitude":"-51°06.423'"
+  },
+  {
+    "logradouro":"Sapiranga",
+    "referencia":"689",
+    "latitude":"-29°41.471",
+    "longitude":"-51°06.689'"
+  },
+  {
+    "logradouro":"Sapiranga",
+    "referencia":"521",
+    "latitude":"-29°41.529'",
+    "longitude":"-51°06.781'"
+  },
+  {
+    "logradouro":"Sapiranga",
+    "referencia":"262",
+    "latitude":"-29°41.601'",
+    "longitude":"-51°06.900'"
+  },
+  {
+    "logradouro":"Sapiranga",
+    "referencia":"90",
+    "latitude":"-29°41.649'",
+    "longitude":"-51°06.966'"
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues .",
+    "referencia":"212",
+    "latitude":"-29°41.35.2'",
+    "longitude":"-51°08.26.6' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"421",
+    "latitude":"-29°41.43.5'",
+    "longitude":"-51°08.32.6' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"565",
+    "latitude":"-29°41.48.0'",
+    "longitude":"-51°08.33.2' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"1114",
+    "latitude":"-29°41.58.6'",
+    "longitude":"-51°08.32.8' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"1321",
+    "latitude":"-29°42.05.9'",
+    "longitude":"-51°08.32.8' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"NH",
+    "latitude":"-29°42.18.1'",
+    "longitude":"-51°08.40.6' "
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"1906",
+    "latitude":"-29°42.21.8'",
+    "longitude":"-51°08.41.8' "
+  },
+  {
+    "logradouro":"Carlos Germano Burcle",
+    "referencia":"845",
+    "latitude":"-29°42.22.2'",
+    "longitude":"-51°08.33.0' "
+  },
+  {
+    "logradouro":"Carlos Germano Burcle",
+    "referencia":"645",
+    "latitude":"-29°42.21.7'",
+    "longitude":"-51°08.25.6' "
+  },
+  {
+    "logradouro":"Carlos Germano Burcle",
+    "referencia":"Coleg. Imp.Leopoldina",
+    "latitude":"-29°42.21.3'",
+    "longitude":"-51°08.21.0' "
+  },
+  {
+    "logradouro":"Carlos Germano Burcle",
+    "referencia":"303",
+    "latitude":"-29°42.20.7'",
+    "longitude":"-51°08.13.1' "
+  },
+  {
+    "logradouro":"Araxá",
+    "referencia":"252",
+    "latitude":"-29°42.14.3'",
+    "longitude":"-51°08.10.1' "
+  },
+  {
+    "logradouro":"Araxá",
+    "referencia":"98",
+    "latitude":"-29°42.13.6'",
+    "longitude":"-51°08.03.4' "
+  },
+  {
+    "logradouro":"Carumbé",
+    "referencia":"",
+    "latitude":"-29°42.13.8'",
+    "longitude":"-51°07.57.9' "
+  },
+  {
+    "logradouro":"Formosa",
+    "referencia":"51",
+    "latitude":"-29°42.25.1'",
+    "longitude":"-51°07.51.8' "
+  },
+  {
+    "logradouro":"Rio de Janeiro",
+    "referencia":"37",
+    "latitude":"-29°42.26.0'",
+    "longitude":"-51°07.44.0' "
+  },
+  {
+    "logradouro":"Rio de Janeiro",
+    "referencia":"335",
+    "latitude":"-29°42.18.7'",
+    "longitude":"-51°07.37.9' "
+  },
+  {
+    "logradouro":"Rio de Janeiro",
+    "referencia":"417",
+    "latitude":"-29°42.17.5'",
+    "longitude":"-51°07.35.5' "
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"380",
+    "latitude":"-29°42.10.3'",
+    "longitude":"-51°07.38.7' "
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"719",
+    "latitude":"-29°42.01.7'",
+    "longitude":"-51°07.38.1' "
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"1100",
+    "latitude":"-29°41.45.3'",
+    "longitude":"-51°07.37.2' "
+  },
+  {
+    "logradouro":"Paraiba",
+    "referencia":"150",
+    "latitude":"-29°41.39.6",
+    "longitude":"-51°07.41.1' "
+  },
+  {
+    "logradouro":"Marques de Souza",
+    "referencia":"174",
+    "latitude":"-29°40.315'",
+    "longitude":"-51°06.563'"
+  },
+  {
+    "logradouro":"Marques de Souza",
+    "referencia":"451",
+    "latitude":"-29°40.149'",
+    "longitude":"-51°06.538'"
+  },
+  {
+    "logradouro":"Marques de Souza",
+    "referencia":"812",
+    "latitude":"-29°39.968'",
+    "longitude":"-51°06.509'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"1253",
+    "latitude":"-29°39.778'",
+    "longitude":"-51°06.518'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"Esq. Chapecó 1657",
+    "latitude":"-29°39.572'",
+    "longitude":"-51°06.479'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"1782",
+    "latitude":"-29°39.493'",
+    "longitude":"-51°06.469'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"1920",
+    "latitude":"-29°39.415'",
+    "longitude":"-51°06.482'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"2244",
+    "latitude":"-29°39.279'",
+    "longitude":"-51°06.555'"
+  },
+  {
+    "logradouro":"Pedreira",
+    "referencia":" Frente capela",
+    "latitude":"-29°38.859'",
+    "longitude":"-51°06.448'"
+  },
+  {
+    "logradouro":"Pedreira",
+    "referencia":"Bairro Centro",
+    "latitude":"-29°38.835'",
+    "longitude":"-51°06.401'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"3000",
+    "latitude":"-29°38.796'",
+    "longitude":"-51°06.466'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"2801",
+    "latitude":"-29°38.999'",
+    "longitude":"-51°06.462'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"2673",
+    "latitude":"-29°39.019'",
+    "longitude":"-51°06.381'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"378",
+    "latitude":"-29°39.173'",
+    "longitude":"-51°06.505'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"272",
+    "latitude":"-29°39.215'",
+    "longitude":"-51°06.562'"
+  },
+  {
+    "logradouro":"Arthur Mombergen",
+    "referencia":"226",
+    "latitude":"-29°39.274'",
+    "longitude":"-51°06.589'"
+  },
+  {
+    "logradouro":"Arthur Mombergen",
+    "referencia":"185",
+    "latitude":"-29°39.354'",
+    "longitude":"-51°06.538'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"1782",
+    "latitude":"-29°39.506'",
+    "longitude":"-51°06.479'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"1620",
+    "latitude":"-29°39.585'",
+    "longitude":"-51°06.489'"
+  },
+  {
+    "logradouro":"Ipiranga",
+    "referencia":"24",
+    "latitude":"-29°42.043'",
+    "longitude":"-51°06.945'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"388",
+    "latitude":"-29°42.434'",
+    "longitude":"-51°07.035'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"499",
+    "latitude":"-29°42.373'",
+    "longitude":"-51°07.028'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"691",
+    "latitude":"-29°42.201'",
+    "longitude":"-51°07.028'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"825",
+    "latitude":"-29°42.200'",
+    "longitude":"-51°07.014'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"212",
+    "latitude":"-29°42.085'",
+    "longitude":"-51°07.114'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"449",
+    "latitude":"-29°41.979'",
+    "longitude":"-51°07.237 "
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"656",
+    "latitude":"-29°41.919'",
+    "longitude":"-51°07.307'"
+  },
+  {
+    "logradouro":"Alegrete",
+    "referencia":"178",
+    "latitude":"-29°41.884'",
+    "longitude":"-51°07.476'"
+  },
+  {
+    "logradouro":"Alegrete",
+    "referencia":"",
+    "latitude":"-29°41.868'",
+    "longitude":"-51°07.564'"
+  },
+  {
+    "logradouro":"Flores da Cunha",
+    "referencia":"212",
+    "latitude":"-29°41.819'",
+    "longitude":"-51°07.738'"
+  },
+  {
+    "logradouro":"Flores da Cunha",
+    "referencia":"28",
+    "latitude":"-29°41.775'",
+    "longitude":"-51°07.820'"
+  },
+  {
+    "logradouro":"7 de Setembro",
+    "referencia":"1152",
+    "latitude":"-29°42.724'",
+    "longitude":"-51°08.129'"
+  },
+  {
+    "logradouro":"7 de Setembro",
+    "referencia":"*883",
+    "latitude":"-29°42.299'",
+    "longitude":"-51°08.325'"
+  },
+  {
+    "logradouro":"7 de Setembro",
+    "referencia":"*359",
+    "latitude":"-29°42.778'",
+    "longitude":"-51°08.628'"
+  },
+  {
+    "logradouro":"7 de Setembro",
+    "referencia":"343",
+    "latitude":"-29°42.779'",
+    "longitude":"-51°08.602'"
+  },
+  {
+    "logradouro":"7 de Setembro",
+    "referencia":"205",
+    "latitude":"-29°42.760'",
+    "longitude":"-51°08.502'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"590",
+    "latitude":"-29°42.537'",
+    "longitude":"-51°07.671'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"655",
+    "latitude":"-29°42.558'",
+    "longitude":"-51°07.633'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"682",
+    "latitude":"-29°42.518'",
+    "longitude":"-51°07.008'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"854",
+    "latitude":"-29°42.367'",
+    "longitude":"-51°07.550'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":" Brigada",
+    "latitude":"-29°42.305'",
+    "longitude":"-51°07.435'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":" Presídio",
+    "latitude":"-29°42.181'",
+    "longitude":"-51°07.317'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"1999",
+    "latitude":"-29°41.825'",
+    "longitude":"-51°07.306'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"1932",
+    "latitude":"-29°41.862.'",
+    "longitude":"-51°07.305'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"2085",
+    "latitude":"-29°41.244'",
+    "longitude":"-51°07.238'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"2300",
+    "latitude":"-29°41.752'",
+    "longitude":"-51°07.207'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"2333",
+    "latitude":"-29°41.700'",
+    "longitude":"-51°07.131'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"2370",
+    "latitude":"-29°41.699'",
+    "longitude":"-51°07.112'"
+  },
+  {
+    "logradouro":"Flores da Cunha",
+    "referencia":"28",
+    "latitude":"-29°41.788'",
+    "longitude":"-51°07.784'"
+  },
+  {
+    "logradouro":"Flores da Cunha",
+    "referencia":"220",
+    "latitude":"-29°41.805'",
+    "longitude":"-51°07.741'"
+  },
+  {
+    "logradouro":"Alegrete",
+    "referencia":"48",
+    "latitude":"-29°41.897'",
+    "longitude":"-51°07.535'"
+  },
+  {
+    "logradouro":"Alegrete",
+    "referencia":"242",
+    "latitude":"-29°41.911'",
+    "longitude":"-51°07.418'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"96",
+    "latitude":"-29°41.944'",
+    "longitude":"-51°07.299'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"477",
+    "latitude":"-29°42.000'",
+    "longitude":"-51°07.229'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"335",
+    "latitude":"-29°42.049'",
+    "longitude":"-51°07.167'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"828",
+    "latitude":"-29°42.198'",
+    "longitude":"-51°07.020'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"680",
+    "latitude":"-29°42.301'",
+    "longitude":"-51°07.032'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"580",
+    "latitude":"-29°42.318'",
+    "longitude":"-51°07.024'"
+  },
+  {
+    "logradouro":"João Hennemann",
+    "referencia":"415",
+    "latitude":"-29°42.412'",
+    "longitude":"-51°07.033'"
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"1756",
+    "latitude":"-29°42.443'",
+    "longitude":"-51°06.999'"
+  },
+  {
+    "logradouro":"Marechal Cândido",
+    "referencia":"260",
+    "latitude":"-29°42.460'",
+    "longitude":"-51°06.877'"
+  },
+  {
+    "logradouro":"Marechal Cândido",
+    "referencia":"419",
+    "latitude":"-29°42.534'",
+    "longitude":"-51°06.887'"
+  },
+  {
+    "logradouro":"Marechal Cândido",
+    "referencia":"468",
+    "latitude":"-29°42.585'",
+    "longitude":"-51°06.890'"
+  },
+  {
+    "logradouro":"Marechal Cândido",
+    "referencia":"243",
+    "latitude":"-29°42.212'",
+    "longitude":"-51°06.891'"
+  },
+  {
+    "logradouro":"Marechal Cândido",
+    "referencia":"825",
+    "latitude":"-29°42.218'",
+    "longitude":"-51°06.893'"
+  },
+  {
+    "logradouro":"Santa Cristina",
+    "referencia":"40",
+    "latitude":"-29°42.827'",
+    "longitude":"-51°06.928'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"1335",
+    "latitude":"-29°42.799'",
+    "longitude":"-51°06.975'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"1242",
+    "latitude":"-29°42.692'",
+    "longitude":"-51°06.972'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"1085",
+    "latitude":"-29°42.588'",
+    "longitude":"-51°06.463'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"453",
+    "latitude":"-29°42.581'",
+    "longitude":"-51°06.793'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"219",
+    "latitude":"-29°41.669'",
+    "longitude":"-51°06.774'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"118",
+    "latitude":"-29°42.662'",
+    "longitude":"-51°06.778'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"80",
+    "latitude":"-29°42.769'",
+    "longitude":"-51°06.674'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"215",
+    "latitude":"-29°42.719'",
+    "longitude":"-51°06.739'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"389",
+    "latitude":"-29°42.655'",
+    "longitude":"-51°06.767'"
+  },
+  {
+    "logradouro":"Minas Gerais",
+    "referencia":"471",
+    "latitude":"-29°42.574'",
+    "longitude":"-51°06.787'"
+  },
+  {
+    "logradouro":"Cândido Rondon",
+    "referencia":"411",
+    "latitude":"-29°42.559'",
+    "longitude":"-51°06.881'"
+  },
+  {
+    "logradouro":"Cândido Rondon",
+    "referencia":"*260",
+    "latitude":"-29°42.459'",
+    "longitude":"-51°06.878'"
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"*261",
+    "latitude":"-29°42.443'",
+    "longitude":"-51°06.952'"
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"35",
+    "latitude":"-29°43.059'",
+    "longitude":"-51°07.546'"
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"*1",
+    "latitude":"-29°42.833'",
+    "longitude":"-51°07.440'"
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"710",
+    "latitude":"-29°42.681'",
+    "longitude":"-51°07.341 "
+  },
+  {
+    "logradouro":"João Daniel Hillebrand",
+    "referencia":"",
+    "latitude":"-29°42.590'",
+    "longitude":"-51°07.300'"
+  },
+  {
+    "logradouro":"Jacob Kroeff Filho",
+    "referencia":"2300",
+    "latitude":"-29°42.369'",
+    "longitude":"-51°07.281'"
+  },
+  {
+    "logradouro":"Jacob Kroeff Filho",
+    "referencia":"2155",
+    "latitude":"-29°42.495'",
+    "longitude":"-51°07.252'"
+  },
+  {
+    "logradouro":"Jacob Kroeff Filho",
+    "referencia":"1944",
+    "latitude":"-29°42.536'",
+    "longitude":"-51°07.205'"
+  },
+  {
+    "logradouro":"Jacob Kroeff Filho",
+    "referencia":"1258",
+    "latitude":"-29°42.653'",
+    "longitude":"-51°07.141'"
+  },
+  {
+    "logradouro":"Pedro Petry",
+    "referencia":"63",
+    "latitude":"-29°42.438'",
+    "longitude":"-51°07.355'"
+  },
+  {
+    "logradouro":"Pedro Petry",
+    "referencia":"24",
+    "latitude":"-29°42.301'",
+    "longitude":"-51°07.395'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"1385",
+    "latitude":"-29°42.257'",
+    "longitude":"-51°07.255'"
+  },
+  {
+    "logradouro":"Ipiranga",
+    "referencia":"197",
+    "latitude":"-29°41.969'",
+    "longitude":"-51°07.025'"
+  },
+  {
+    "logradouro":"Ipiranga",
+    "referencia":"425",
+    "latitude":"-29°41.902'",
+    "longitude":"-51°07.111'"
+  },
+  {
+    "logradouro":"Ipiranga",
+    "referencia":"427",
+    "latitude":"-29°41.899'",
+    "longitude":"-51°07.118'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"315",
+    "latitude":"-29°41.907'",
+    "longitude":"-51°07.123'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"678",
+    "latitude":"-29°41.997'",
+    "longitude":"-51°07.275'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"862",
+    "latitude":"-29°42.081'",
+    "longitude":"-51°07.312'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"391",
+    "latitude":"-29°42.146'",
+    "longitude":"-51°07.142'"
+  },
+  {
+    "logradouro":"Karl W. schinke",
+    "referencia":"1260",
+    "latitude":"-29°42.221'",
+    "longitude":"-51°07.179'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"901",
+    "latitude":"-29°42.488'",
+    "longitude":"-51°06.964'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"283",
+    "latitude":"-29°42.418'",
+    "longitude":"-51°06.955'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"981",
+    "latitude":"-29°42.311'",
+    "longitude":"-51°06.937'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"485",
+    "latitude":"-29°42.235'",
+    "longitude":"-51°06.928'"
+  },
+  {
+    "logradouro":"Travessão",
+    "referencia":"229",
+    "latitude":"-29°42.115'",
+    "longitude":"-51°06.932'"
+  },
+  {
+    "logradouro":"Abissínia",
+    "referencia":"63",
+    "latitude":"-29°40.355'",
+    "longitude":"-51°09.296'"
+  },
+  {
+    "logradouro":"Abissínia",
+    "referencia":"111",
+    "latitude":"-29°40.335'",
+    "longitude":"-51°09.266'"
+  },
+  {
+    "logradouro":"Abissínia",
+    "referencia":"237",
+    "latitude":"-29°40.300'",
+    "longitude":"-51°09.208'"
+  },
+  {
+    "logradouro":"Abissínia",
+    "referencia":"415",
+    "latitude":"-29°40.268'",
+    "longitude":"-51°09.154'"
+  },
+  {
+    "logradouro":"Itália",
+    "referencia":"277",
+    "latitude":"-29°40.243'",
+    "longitude":"-51°09.080'"
+  },
+  {
+    "logradouro":"Grécia",
+    "referencia":"200",
+    "latitude":"-29°40.230'",
+    "longitude":"-51°09.053'"
+  },
+  {
+    "logradouro":"Inglaterra",
+    "referencia":"649",
+    "latitude":"-29°40.218'",
+    "longitude":"-51°09.092'"
+  },
+  {
+    "logradouro":"Inglaterra",
+    "referencia":"793",
+    "latitude":"-29°40.212'",
+    "longitude":"-51°09.150'"
+  },
+  {
+    "logradouro":"Áustria",
+    "referencia":"582",
+    "latitude":"-29°40.190'",
+    "longitude":"-51°09.104'"
+  },
+  {
+    "logradouro":"Hungria",
+    "referencia":"264",
+    "latitude":"-29°40.190'",
+    "longitude":"-51°09.116'"
+  },
+  {
+    "logradouro":"Luxemburgo",
+    "referencia":"1421",
+    "latitude":"-29°40.138'",
+    "longitude":"-51°09.096'"
+  },
+  {
+    "logradouro":"Luxemburgo",
+    "referencia":"1321",
+    "latitude":"-29°40.142'",
+    "longitude":"-51°09.049'"
+  },
+  {
+    "logradouro":"Rússia",
+    "referencia":" Esq. Rincão",
+    "latitude":"-29°40.097'",
+    "longitude":"-51°08.592'"
+  },
+  {
+    "logradouro":"Inglaterra",
+    "referencia":"467",
+    "latitude":"-29°40.222'",
+    "longitude":"-51°09.016'"
+  },
+  {
+    "logradouro":"Finlândia",
+    "referencia":"630",
+    "latitude":"-29°40.303'",
+    "longitude":"-51°09.013'"
+  },
+  {
+    "logradouro":"Libéria",
+    "referencia":"399",
+    "latitude":"-29°40.271'",
+    "longitude":"-51°08.581'"
+  },
+  {
+    "logradouro":"Libéria",
+    "referencia":"254",
+    "latitude":"-29°40.274'",
+    "longitude":"-51°08.531'"
+  },
+  {
+    "logradouro":"Mônaco",
+    "referencia":"236",
+    "latitude":"-29°40.297'",
+    "longitude":"-51°08.497'"
+  },
+  {
+    "logradouro":"Mônaco",
+    "referencia":"123",
+    "latitude":"-29°40.323'",
+    "longitude":"-51°08.472'"
+  },
+  {
+    "logradouro":"Sul Africana",
+    "referencia":"216",
+    "latitude":"-29°40.355'",
+    "longitude":"-51°08.424'"
+  },
+  {
+    "logradouro":" Portugal",
+    "referencia":"17",
+    "latitude":"-29°40.386'",
+    "longitude":"-51°08.376'"
+  },
+  {
+    "logradouro":"Portugal",
+    "referencia":"182",
+    "latitude":"-29°40.337'",
+    "longitude":"-51°08.373'"
+  },
+  {
+    "logradouro":"Portugal",
+    "referencia":"366",
+    "latitude":"-29°40.272'",
+    "longitude":"-51°08.370'"
+  },
+  {
+    "logradouro":"Espanha",
+    "referencia":"Ginásio Municipal",
+    "latitude":"-29°40.195'",
+    "longitude":"-51°08.392'"
+  },
+  {
+    "logradouro":"Luxemburgo",
+    "referencia":"523",
+    "latitude":"-29°40.161'",
+    "longitude":"-51°08.400'"
+  },
+  {
+    "logradouro":"Pérsia",
+    "referencia":"155",
+    "latitude":"-29°40.405'",
+    "longitude":"-51°08.429'"
+  },
+  {
+    "logradouro":"Ceará",
+    "referencia":"267",
+    "latitude":"-29°40.400'",
+    "longitude":"-51°08.434'"
+  },
+  {
+    "logradouro":"Alagoas",
+    "referencia":"444",
+    "latitude":"-29°40.451'",
+    "longitude":"-51°08.514'"
+  },
+  {
+    "logradouro":"Alagoas",
+    "referencia":"173",
+    "latitude":"-29°40.504'",
+    "longitude":"-51°08.459'"
+  },
+  {
+    "logradouro":"Alagoas",
+    "referencia":"71",
+    "latitude":"-29°40.511'",
+    "longitude":"-51°08.419'"
+  },
+  {
+    "logradouro":"Cururípi",
+    "referencia":"45",
+    "latitude":"-29°40.545'",
+    "longitude":"-51°08.408'"
+  },
+  {
+    "logradouro":"Paraná",
+    "referencia":"326",
+    "latitude":"-29°40.513'",
+    "longitude":"-51°08.377'"
+  },
+  {
+    "logradouro":"Livramento",
+    "referencia":"310",
+    "latitude":"-29°40.519'",
+    "longitude":"-51°08.373'"
+  },
+  {
+    "logradouro":"Candelária",
+    "referencia":"161",
+    "latitude":"-29°40.587'",
+    "longitude":"-51°08.412'"
+  },
+  {
+    "logradouro":"Rosário do Sul",
+    "referencia":"140",
+    "latitude":"-29°41.070'",
+    "longitude":"-51°08.394'"
+  },
+  {
+    "logradouro":"Lorena",
+    "referencia":"49",
+    "latitude":"-29°41.091'",
+    "longitude":"-51°08.402'"
+  },
+  {
+    "logradouro":"Carlos Armando Kock",
+    "referencia":"380",
+    "latitude":"-29°40.117'",
+    "longitude":"-51°10.116'"
+  },
+  {
+    "logradouro":"Carlos Armando Kock",
+    "referencia":"510",
+    "latitude":"-29°40.110'",
+    "longitude":"-51°10.136'"
+  },
+  {
+    "logradouro":"Carlos Armando Kock",
+    "referencia":"",
+    "latitude":"-29°40.125'",
+    "longitude":"-51°10.197'"
+  },
+  {
+    "logradouro":"Projetada 1",
+    "referencia":"433",
+    "latitude":"-29°40.145'",
+    "longitude":"-51°10.236'"
+  },
+  {
+    "logradouro":"Projetada 1",
+    "referencia":"259",
+    "latitude":"-29°40.205'",
+    "longitude":"-51°10.227'"
+  },
+  {
+    "logradouro":"Projetada 1",
+    "referencia":"72",
+    "latitude":"-29°40.262'",
+    "longitude":"-51°10.216'"
+  },
+  {
+    "logradouro":"Seq. projetada 1",
+    "referencia":"309",
+    "latitude":"-29°40.288'",
+    "longitude":"-51°10.220'"
+  },
+  {
+    "logradouro":"Projetada 2",
+    "referencia":"1758",
+    "latitude":"-29°40.312'",
+    "longitude":"-51°10.227'"
+  },
+  {
+    "logradouro":"Projetada 2",
+    "referencia":"1204",
+    "latitude":"-29°40.363'",
+    "longitude":"-51°10.220'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"981",
+    "latitude":"-29°40.413'",
+    "longitude":"-51°10.224'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"912",
+    "latitude":"-29°40.461'",
+    "longitude":"-51°10.241'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"910",
+    "latitude":"-29°40.522'",
+    "longitude":"-51°10.253'"
+  },
+  {
+    "logradouro":"Pirinópolis",
+    "referencia":"386",
+    "latitude":"-29°40.517'",
+    "longitude":"-51°10.322'"
+  },
+  {
+    "logradouro":"Carlos Armando Kock",
+    "referencia":"132",
+    "latitude":"-29°40.438'",
+    "longitude":"-51°10.369'"
+  },
+  {
+    "logradouro":"Pedro José Luis de Sá",
+    "referencia":"99",
+    "latitude":"-29°40.422'",
+    "longitude":"-51°10.343'"
+  },
+  {
+    "logradouro":"Rua das Quaresmeira",
+    "referencia":"63",
+    "latitude":"-29°40.463'",
+    "longitude":"-51°10.349'"
+  },
+  {
+    "logradouro":"Itaibezinho",
+    "referencia":"25",
+    "latitude":"-29°40.503'",
+    "longitude":"-51°10.294'"
+  },
+  {
+    "logradouro":"Jardim",
+    "referencia":"129",
+    "latitude":"-29°40.490'",
+    "longitude":"-51°10.198'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"1301",
+    "latitude":"-29°40.507'",
+    "longitude":"-51°10.158'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"Madereira",
+    "latitude":"-29°40.490'",
+    "longitude":"-51°10.153'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"38",
+    "latitude":"-29°40.142'",
+    "longitude":"-51°09.576'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"207",
+    "latitude":"-29°40.176'",
+    "longitude":"-51°10.012'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"441",
+    "latitude":"-29°40.231'",
+    "longitude":"-51°10.063'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"589",
+    "latitude":"-29°40.281'",
+    "longitude":"-51°10.086'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"690",
+    "latitude":"-29°40.318'",
+    "longitude":"-51°10.101'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"875",
+    "latitude":"-29°40.370'",
+    "longitude":"-51°10.121'"
+  },
+  {
+    "logradouro":"Pedro Quaresma",
+    "referencia":"1020",
+    "latitude":"-29°40.428'",
+    "longitude":"-51°10.138'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"540",
+    "latitude":"-29°40.574'",
+    "longitude":"-51°10.176'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"1581",
+    "latitude":"-29°41.002'",
+    "longitude":"-51°10.132'"
+  },
+  {
+    "logradouro":"Rua do Bosque",
+    "referencia":"1725",
+    "latitude":"-29°41.025'",
+    "longitude":"-51°10.093'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"2032",
+    "latitude":"-29°41.092'",
+    "longitude":"-51°10.072'"
+  },
+  {
+    "logradouro":"Tarcísio Antonio Bruxel",
+    "referencia":"Esq. João Roman Bueno",
+    "latitude":"-29°41.067'",
+    "longitude":"-51°10.131'"
+  },
+  {
+    "logradouro":"Tarcísio Antonio Bruxel",
+    "referencia":"438",
+    "latitude":"-29°41.030'",
+    "longitude":"-51°10.192'"
+  },
+  {
+    "logradouro":"Tarcísio Antonio Bruxel",
+    "referencia":"Irmão Nílo",
+    "latitude":"-29°40.584'",
+    "longitude":"-51°10.267'"
+  },
+  {
+    "logradouro":"Tarcísio Antonio Bruxel",
+    "referencia":"22",
+    "latitude":"-29°40.536'",
+    "longitude":"-51°10.347'"
+  },
+  {
+    "logradouro":"Pirinópolis",
+    "referencia":"169",
+    "latitude":"-29°40.589'",
+    "longitude":"-51°10.228'"
+  },
+  {
+    "logradouro":"Pirinópolis",
+    "referencia":"76",
+    "latitude":"-29°40.594'",
+    "longitude":"-51°10.200'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"1818",
+    "latitude":"-29°40.039'",
+    "longitude":"-51°10.048'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":" Esq. com Floresta",
+    "latitude":"-29°40.590'",
+    "longitude":"-51°10.032'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"1107",
+    "latitude":"-29°40.509'",
+    "longitude":"-51°10.005'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"931",
+    "latitude":"-29°40.466'",
+    "longitude":"-51°09.589'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"735",
+    "latitude":"-29°40.408'",
+    "longitude":"-51°09.957'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"525",
+    "latitude":"-29°40.344'",
+    "longitude":"-51°09.551'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"337",
+    "latitude":"-29°40.219'",
+    "longitude":"-51°09.549'"
+  },
+  {
+    "logradouro":"22 de Outubro",
+    "referencia":"130",
+    "latitude":"-29°40.210'",
+    "longitude":"-51°09.558'"
+  },
+  {
+    "logradouro":"Sobradinho",
+    "referencia":"42",
+    "latitude":"-29°40.392'",
+    "longitude":"-51°06.177'"
+  },
+  {
+    "logradouro":"Gal. Vargas",
+    "referencia":"386",
+    "latitude":"-29°40.315'",
+    "longitude":"-51°06.071'"
+  },
+  {
+    "logradouro":"Ver.Carlos Emílio Kolling",
+    "referencia":"372",
+    "latitude":"-29°40.337'",
+    "longitude":"-51°05.927'"
+  },
+  {
+    "logradouro":"Ver.Carlos Emílio Kolling",
+    "referencia":"456",
+    "latitude":"-29°40.223'",
+    "longitude":"-51°05.870'"
+  },
+  {
+    "logradouro":"Irmã Lina",
+    "referencia":"124",
+    "latitude":"-29°40.235'",
+    "longitude":"-51°05.749'"
+  },
+  {
+    "logradouro":"Valença",
+    "referencia":"541",
+    "latitude":"-29°40.085'",
+    "longitude":"-51°05.510'"
+  },
+  {
+    "logradouro":"Valença",
+    "referencia":"15",
+    "latitude":"-29°40.054'",
+    "longitude":"-51°05.598'"
+  },
+  {
+    "logradouro":"Valença",
+    "referencia":"179",
+    "latitude":"-29°40.037'",
+    "longitude":"-51°05.674'"
+  },
+  {
+    "logradouro":"Valença",
+    "referencia":"282",
+    "latitude":"-29°40.029'",
+    "longitude":"-51°05.730'"
+  },
+  {
+    "logradouro":"Valença",
+    "referencia":"225",
+    "latitude":"-29°40.004'",
+    "longitude":"-51°05.817'"
+  },
+  {
+    "logradouro":"Frederico Westphalen",
+    "referencia":"849",
+    "latitude":"-29°39.973'",
+    "longitude":"-51°05.744'"
+  },
+  {
+    "logradouro":"Frederico Westphalen",
+    "referencia":"873",
+    "latitude":"-29°39.975'",
+    "longitude":"-51°05.771'"
+  },
+  {
+    "logradouro":"Frederico Westphalen",
+    "referencia":"276",
+    "latitude":"-29°39.923'",
+    "longitude":"-51°06.138'"
+  },
+  {
+    "logradouro":"João Armando Schilling",
+    "referencia":"452",
+    "latitude":"-29°40.283'",
+    "longitude":"-51°05.674'"
+  },
+  {
+    "logradouro":"19 de Novembro",
+    "referencia":"585",
+    "latitude":"-29°40.259'",
+    "longitude":"-51°06.004 "
+  },
+  {
+    "logradouro":"Alvarenga",
+    "referencia":"245",
+    "latitude":"-29°40.236'",
+    "longitude":"-51°05.976'"
+  },
+  {
+    "logradouro":"Alvarenga",
+    "referencia":"245",
+    "latitude":"-29°40216'",
+    "longitude":"-51°06.008 "
+  },
+  {
+    "logradouro":"3 de Maio",
+    "referencia":"235",
+    "latitude":"-29°40.109'",
+    "longitude":"-51°06.073'"
+  },
+  {
+    "logradouro":"3 de Maio",
+    "referencia":"103",
+    "latitude":"-29°40.167'",
+    "longitude":"-51°06.111'"
+  },
+  {
+    "logradouro":"19 de Novembro",
+    "referencia":"275",
+    "latitude":"-29°40.283'",
+    "longitude":"-51°06.208'"
+  },
+  {
+    "logradouro":"Jaboti",
+    "referencia":"488",
+    "latitude":"-29°40.037'",
+    "longitude":"-51°06.200'"
+  },
+  {
+    "logradouro":"Waldir Alberto Heidrich",
+    "referencia":"61",
+    "latitude":"-29°39.918'",
+    "longitude":"-51°06.053'"
+  },
+  {
+    "logradouro":"Amadeu Amaral",
+    "referencia":"374",
+    "latitude":"-29°39.848'",
+    "longitude":"-51°06.096'"
+  },
+  {
+    "logradouro":"Amadeu Amaral",
+    "referencia":"220",
+    "latitude":"-29°39.824'",
+    "longitude":"-51°06.215'"
+  },
+  {
+    "logradouro":"Guaíba",
+    "referencia":"1124",
+    "latitude":"-29°39.728'",
+    "longitude":"-51°06.256'"
+  },
+  {
+    "logradouro":"Guaiba",
+    "referencia":"1207",
+    "latitude":"-29°39.683'",
+    "longitude":"-51°06.243'"
+  },
+  {
+    "logradouro":"Jaburú",
+    "referencia":"776",
+    "latitude":"-29°39.685'",
+    "longitude":"-51°06.287'"
+  },
+  {
+    "logradouro":"Javarí",
+    "referencia":"609",
+    "latitude":"-29°39.756'",
+    "longitude":"-51°06.345'"
+  },
+  {
+    "logradouro":"Amadeu Amaral",
+    "referencia":"64",
+    "latitude":"-29°39.818'",
+    "longitude":"-51°06.325'"
+  },
+  {
+    "logradouro":"Jaburú",
+    "referencia":"468",
+    "latitude":"-29°39.854'",
+    "longitude":"-51°06.318'"
+  },
+  {
+    "logradouro":"Jaburú",
+    "referencia":"246",
+    "latitude":"-29°39.966'",
+    "longitude":"-51°06.334'"
+  },
+  {
+    "logradouro":"Jaburú",
+    "referencia":"20",
+    "latitude":"-29°40.044'",
+    "longitude":"-51°06.352'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"341",
+    "latitude":"-29°40.026",
+    "longitude":"-51°06.384'"
+  },
+  {
+    "logradouro":"Eng.Jorge Schury",
+    "referencia":"3990",
+    "latitude":"-29°40.198'",
+    "longitude":"-51°06.433'"
+  },
+  {
+    "logradouro":"Estrada Ver. Oscar Horn",
+    "referencia":"688",
+    "latitude":"-29°41.270'",
+    "longitude":"-51°05.402'"
+  },
+  {
+    "logradouro":"Estrada Ver. Oscar Horn",
+    "referencia":"861",
+    "latitude":"-29°41.324'",
+    "longitude":"-51°05.369'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"150",
+    "latitude":"-29°41.438'",
+    "longitude":"-51°05.348'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"348",
+    "latitude":"-29°41.426'",
+    "longitude":"-51°05.361'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"592",
+    "latitude":"-29°41.557'",
+    "longitude":"-51°05.372'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"781",
+    "latitude":"-29°41.015'",
+    "longitude":"-51°05.383'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"968",
+    "latitude":"-29°41.076'",
+    "longitude":"-51°05.392'"
+  },
+  {
+    "logradouro":"Ovídio",
+    "referencia":"111",
+    "latitude":"-29°41.114'",
+    "longitude":"-51°05.356'"
+  },
+  {
+    "logradouro":"Ovídio",
+    "referencia":"62",
+    "latitude":"-29°41.109'",
+    "longitude":"-51°05.364'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"970",
+    "latitude":"-29°41.076'",
+    "longitude":"-51°05.394'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"650",
+    "latitude":"-29°41.577'",
+    "longitude":"-51°05.307'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"254",
+    "latitude":"-29°41.110'",
+    "longitude":"-51°05.291'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"2025",
+    "latitude":"-29°41.068'",
+    "longitude":"-51°05.287'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1878",
+    "latitude":"-29°42.020'",
+    "longitude":"-51°05.279'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1711",
+    "latitude":"-29°42.413'",
+    "longitude":"-51°05.269'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1596",
+    "latitude":"-29°41.513'",
+    "longitude":"-51°05.626'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1356",
+    "latitude":"-29°41.437'",
+    "longitude":"-51°05.248'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1140",
+    "latitude":"-29°41.440'",
+    "longitude":"-51°05.251'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1171",
+    "latitude":"-29°41.386'",
+    "longitude":"-51°05.254'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1418",
+    "latitude":"-29°41.464'",
+    "longitude":"-51°05.257'"
+  },
+  {
+    "logradouro":"Silvio G.Christmann",
+    "referencia":"1617",
+    "latitude":"-29°41.533'",
+    "longitude":"-51°05.267'"
+  },
+  {
+    "logradouro":"Farroupilha",
+    "referencia":"125",
+    "latitude":"-29°39.363'",
+    "longitude":"-51°06.341'"
+  },
+  {
+    "logradouro":"Rudi Reis",
+    "referencia":"3000",
+    "latitude":"-29°39.388'",
+    "longitude":"-51°06.045'"
+  },
+  {
+    "logradouro":"Pr.Gustavo Nordlumd",
+    "referencia":"49",
+    "latitude":"-29°39.159'",
+    "longitude":"-51°06.431'"
+  },
+  {
+    "logradouro":"Armindo Bernardo Ludwiig",
+    "referencia":"Emei.Arco íris",
+    "latitude":"-29°39.129'",
+    "longitude":"-51°06.497'"
+  },
+  {
+    "logradouro":"Armindo Bernardo Ludwiig",
+    "referencia":"E.E.Kurt Walzer",
+    "latitude":"-29°39.072'",
+    "longitude":"-51°06.407'"
+  },
+  {
+    "logradouro":"Rua da Participação",
+    "referencia":"83",
+    "latitude":"-29°39.048'",
+    "longitude":"-51°06.440'"
+  },
+  {
+    "logradouro":"Lauro Edimo Stanglender",
+    "referencia":"218",
+    "latitude":"-29°39.051'",
+    "longitude":"-51°06.495'"
+  },
+  {
+    "logradouro":"Lauro Edimo Stanglender",
+    "referencia":"183",
+    "latitude":"-29°39.071'",
+    "longitude":"-51°06.497'"
+  },
+  {
+    "logradouro":"lauro Edimo Stanglender",
+    "referencia":"204",
+    "latitude":"-29°39.143'",
+    "longitude":"-51°06.506'"
+  },
+  {
+    "logradouro":"Oscar Leopoldo Cornélios",
+    "referencia":"104",
+    "latitude":"-29°39.174'",
+    "longitude":"-51°06.507'"
+  },
+  {
+    "logradouro":"Pr.Gustavo Nordlund",
+    "referencia":"255",
+    "latitude":"-29°39.196'",
+    "longitude":"-51°05.439'"
+  },
+  {
+    "logradouro":"Pr.Gustavo Nordlumd",
+    "referencia":"261",
+    "latitude":"-29°39.228'",
+    "longitude":"-51°06.446'"
+  },
+  {
+    "logradouro":"Pr.Gustavo Nordlumd",
+    "referencia":"170",
+    "latitude":"-29°39.272'",
+    "longitude":"-51°06.453'"
+  },
+  {
+    "logradouro":"Pr.Gustavo Nordlumd",
+    "referencia":"564",
+    "latitude":"-29°39.322'",
+    "longitude":"-51°06.460'"
+  },
+  {
+    "logradouro":"Rudi Reis",
+    "referencia":"3016",
+    "latitude":"-29°39.387'",
+    "longitude":"-51°06.459'"
+  },
+  {
+    "logradouro":"Farroupilha",
+    "referencia":"315",
+    "latitude":"-29°39.358'",
+    "longitude":"-51°06.414'"
+  },
+  {
+    "logradouro":"Farroupilha",
+    "referencia":"Esq. Taquari",
+    "latitude":"-29°39.638'",
+    "longitude":"-51°06.332'"
+  },
+  {
+    "logradouro":"Curitibanos",
+    "referencia":"730",
+    "latitude":"-29°40.486'",
+    "longitude":"-51°05.247'"
+  },
+  {
+    "logradouro":"Curitibanos",
+    "referencia":"670",
+    "latitude":"-29°40.483'",
+    "longitude":"-51°05.267'"
+  },
+  {
+    "logradouro":"Curitibanos",
+    "referencia":"967",
+    "latitude":"-29°41.043'",
+    "longitude":"-51°05.357'"
+  },
+  {
+    "logradouro":"Curitibanos",
+    "referencia":"162",
+    "latitude":"-29°41.103'",
+    "longitude":"-51°05.364'"
+  },
+  {
+    "logradouro":"Alfredo Muller",
+    "referencia":"95",
+    "latitude":"-29°41.297'",
+    "longitude":"-51°05.390'"
+  },
+  {
+    "logradouro":"Alfredo Muller",
+    "referencia":"245",
+    "latitude":"-29°41.287'",
+    "longitude":"-51°05.465'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"187",
+    "latitude":"-29°41.307'",
+    "longitude":"-51°05.437'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"411",
+    "latitude":"-29°41.383'",
+    "longitude":"-51°05.445'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"543",
+    "latitude":"-29°41.432'",
+    "longitude":"-51°05.452'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"691",
+    "latitude":"-29°41.471'",
+    "longitude":"-51°05.457'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"933",
+    "latitude":"-29°41.562'",
+    "longitude":"-51°05.470'"
+  },
+  {
+    "logradouro":"Joaquim de Oliveira",
+    "referencia":"Esq. Uruguai",
+    "latitude":"-29°41.016'",
+    "longitude":"-51°05.477'"
+  },
+  {
+    "logradouro":"Potiguara",
+    "referencia":"1457",
+    "latitude":"-29°42.057'",
+    "longitude":"-51°05.579'"
+  },
+  {
+    "logradouro":"Potiguara",
+    "referencia":"1270",
+    "latitude":"-29°41.584'",
+    "longitude":"-51°05.571'"
+  },
+  {
+    "logradouro":"Potiguara",
+    "referencia":"1142",
+    "latitude":"-29°41.542'",
+    "longitude":"-51°05.565'"
+  },
+  {
+    "logradouro":"Potiguara",
+    "referencia":"1139",
+    "latitude":"-29°41.539'",
+    "longitude":"-51°05.569'"
+  },
+  {
+    "logradouro":"Potiguara",
+    "referencia":"784",
+    "latitude":"-29°41.409'",
+    "longitude":"-51°05.549'"
+  },
+  {
+    "logradouro":"Odon Cavalcante",
+    "referencia":"833",
+    "latitude":"-29°41.197'",
+    "longitude":"-51°05.195'"
+  },
+  {
+    "logradouro":"Juscelino K. de Oliveira",
+    "referencia":"1755",
+    "latitude":"-29°41.357'",
+    "longitude":"-51°05.184'"
+  },
+  {
+    "logradouro":"João Goulart",
+    "referencia":"200",
+    "latitude":"-29°41.394'",
+    "longitude":"-51°05.150'"
+  },
+  {
+    "logradouro":"Castelo Branco",
+    "referencia":"530",
+    "latitude":"-29°41.443'",
+    "longitude":"-51°05.160'"
+  },
+  {
+    "logradouro":"Costa e Silva",
+    "referencia":"1210",
+    "latitude":"-29°41.519'",
+    "longitude":"-51°05.194'"
+  },
+  {
+    "logradouro":"Tibet",
+    "referencia":"Posto de gasolina",
+    "latitude":"-29°40.245'",
+    "longitude":"-51°08.310'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"1251",
+    "latitude":"-29°40259'",
+    "longitude":"-51°08.207'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"1056",
+    "latitude":"-29°40.364'",
+    "longitude":"-51°08.165'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"851",
+    "latitude":"-29°40.465'",
+    "longitude":"-51°08.128'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"712",
+    "latitude":"-29°40.539'",
+    "longitude":"-51°08.099'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"535",
+    "latitude":"-29°40.645'",
+    "longitude":"-51°08.064'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"359",
+    "latitude":"-29°40.699'",
+    "longitude":"-51°08.036'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"680",
+    "latitude":"-29°40.567'",
+    "longitude":"-51°08.076'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"1056",
+    "latitude":"-29°40.357'",
+    "longitude":"-51°08.160'"
+  },
+  {
+    "logradouro":"11de Junho",
+    "referencia":"1318",
+    "latitude":"-29°40.228'",
+    "longitude":"-51°08.261'"
+  },
+  {
+    "logradouro":"Bento Manuel",
+    "referencia":"E.E. Vila Becker",
+    "latitude":"-29°40.081'",
+    "longitude":"-51°08261' "
+  },
+  {
+    "logradouro":"Bento Manuel",
+    "referencia":"339",
+    "latitude":"-29°40.968'",
+    "longitude":"-51°07.962'"
+  },
+  {
+    "logradouro":"Bento Manuel",
+    "referencia":"111",
+    "latitude":"-29°39.931'",
+    "longitude":"-51°07.820 "
+  },
+  {
+    "logradouro":"Saldanha da Gama",
+    "referencia":"191",
+    "latitude":"-29°41.211'",
+    "longitude":"-51°09.138'"
+  },
+  {
+    "logradouro":"Saldanha da Gama",
+    "referencia":"365",
+    "latitude":"-29°41.096'",
+    "longitude":"-51°09.129'"
+  },
+  {
+    "logradouro":"Saldanha da Gama",
+    "referencia":"377",
+    "latitude":"-29°41.072'",
+    "longitude":"-51°09.128'"
+  },
+  {
+    "logradouro":"Ver.Lindolfo da Silva",
+    "referencia":"342",
+    "latitude":"-29°41.048'",
+    "longitude":"-51°09.172'"
+  },
+  {
+    "logradouro":"Ver.Lindolfo da Silva",
+    "referencia":"358",
+    "latitude":"-29°41.052'",
+    "longitude":"-51°09.224'"
+  },
+  {
+    "logradouro":"Compositor José Mendes",
+    "referencia":"200",
+    "latitude":"-29°41107'",
+    "longitude":"-51°09.295'"
+  },
+  {
+    "logradouro":"Compositor José Mendes",
+    "referencia":"16",
+    "latitude":"-29°41.228'",
+    "longitude":"-51°09.310 "
+  },
+  {
+    "logradouro":"São Nicolau",
+    "referencia":"Col.José Bonifácio",
+    "latitude":"-29°41.242'",
+    "longitude":"-51°09.268'"
+  },
+  {
+    "logradouro":"São Nicolau",
+    "referencia":"772",
+    "latitude":"-29°41.235'",
+    "longitude":"-51°09.156'"
+  },
+  {
+    "logradouro":"Inglaterra",
+    "referencia":"233",
+    "latitude":"-29°40.384'",
+    "longitude":"-51°08907' "
+  },
+  {
+    "logradouro":"Libéria",
+    "referencia":"187",
+    "latitude":"-29°40.458'",
+    "longitude":"-51°08.837'"
+  },
+  {
+    "logradouro":"Libéria",
+    "referencia":"21",
+    "latitude":"-29°40.478'",
+    "longitude":"-51°08.738'"
+  },
+  {
+    "logradouro":"Libéria",
+    "referencia":"209",
+    "latitude":"-29°40.507'",
+    "longitude":"-51°08.793'"
+  },
+  {
+    "logradouro":"Sergipe",
+    "referencia":"169",
+    "latitude":"-29°40.714'",
+    "longitude":"-51°08.656'"
+  },
+  {
+    "logradouro":"Paquistão",
+    "referencia":"159",
+    "latitude":"-29°40.625'",
+    "longitude":"-51°08.716'"
+  },
+  {
+    "logradouro":"Paquistão",
+    "referencia":"180",
+    "latitude":"-29°40.624'",
+    "longitude":"-51°08.738'"
+  },
+  {
+    "logradouro":"Paquistão",
+    "referencia":"340",
+    "latitude":"-29°40.613'",
+    "longitude":"-51°08.834'"
+  },
+  {
+    "logradouro":"Paquistão",
+    "referencia":"450",
+    "latitude":"-29°40.612'",
+    "longitude":"-51°05.849'"
+  },
+  {
+    "logradouro":"Paquistão",
+    "referencia":"674",
+    "latitude":"-29°40.598'",
+    "longitude":"-51°09.004 "
+  },
+  {
+    "logradouro":"Finlândia",
+    "referencia":"991",
+    "latitude":"-29°40.596'",
+    "longitude":"-51°09.159'"
+  },
+  {
+    "logradouro":"Finlândia",
+    "referencia":"1097",
+    "latitude":"-29°40.677'",
+    "longitude":"-51°09.242'"
+  },
+  {
+    "logradouro":"Finlândia",
+    "referencia":"1275",
+    "latitude":"-29°40.744'",
+    "longitude":"-51°09.254'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"2380",
+    "latitude":"-29°40.279'",
+    "longitude":"-51°09.711'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"2232",
+    "latitude":"-29°40.218'",
+    "longitude":"-51°09.562'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"1890",
+    "latitude":"-29°40.176'",
+    "longitude":"-51°09.368'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"1674",
+    "latitude":"-29°40.145'",
+    "longitude":"-51°09.235'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"1000",
+    "latitude":"-29°40.174'",
+    "longitude":"-51°08.822'"
+  },
+  {
+    "logradouro":"Rincão",
+    "referencia":"63",
+    "latitude":"-29°40.193'",
+    "longitude":"-51°08.635'"
+  },
+  {
+    "logradouro":"Coreia",
+    "referencia":"720",
+    "latitude":"-29°40.236'",
+    "longitude":"-51°08.443'"
+  },
+  {
+    "logradouro":"Coreia",
+    "referencia":"57",
+    "latitude":"-29°40.328'",
+    "longitude":"-51°08.437'"
+  },
+  {
+    "logradouro":"Caxias do Sul",
+    "referencia":"488",
+    "latitude":"-29°40.347'",
+    "longitude":"-51°08.458'"
+  },
+  {
+    "logradouro":"Caxias do Sul",
+    "referencia":"356",
+    "latitude":"-29°40.363'",
+    "longitude":"-51°08.379'"
+  },
+  {
+    "logradouro":"Caxias do Sul",
+    "referencia":"358",
+    "latitude":"-29°40.365'",
+    "longitude":"-51°08.382'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"1915",
+    "latitude":"-29°41526'",
+    "longitude":"-51°07.184'"
+  },
+  {
+    "logradouro":"Coronel Travassos",
+    "referencia":"2245",
+    "latitude":"-29°41.526'",
+    "longitude":"-51°07.124'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"Esq. Itaboraí",
+    "latitude":"-29°41.150'",
+    "longitude":"-51°07.190'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"1500",
+    "latitude":"-29°41.018'",
+    "longitude":"-51°07.160'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"990",
+    "latitude":"-29°40.500'",
+    "longitude":"-51°07.026'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"Feevale Campos I",
+    "latitude":"-29°40.415'",
+    "longitude":"-51°06.526'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"313",
+    "latitude":"-29°40.329'",
+    "longitude":"-51°06.483'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"Esq. Ribeiro de Almeida",
+    "latitude":"-29°40.406'",
+    "longitude":"-51°06.516'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"977",
+    "latitude":"-29°40.501'",
+    "longitude":"-51°07.034'"
+  },
+  {
+    "logradouro":"Maurício Cardoso",
+    "referencia":"1544",
+    "latitude":"-29°41.020'",
+    "longitude":"-51°07.167'"
+  },
+  {
+    "logradouro":"Júpiter",
+    "referencia":"160",
+    "latitude":"-29°40.327'",
+    "longitude":"-51°09.396'"
+  },
+  {
+    "logradouro":"Júpiter",
+    "referencia":"180",
+    "latitude":"-29°40.326'",
+    "longitude":"-51°09.398'"
+  },
+  {
+    "logradouro":"Júpiter",
+    "referencia":"415",
+    "latitude":"-29°40.342'",
+    "longitude":"-51°09.445'"
+  },
+  {
+    "logradouro":"Júpiter",
+    "referencia":"290",
+    "latitude":"-29°40.343'",
+    "longitude":"-51°09.444'"
+  },
+  {
+    "logradouro":"Plutão",
+    "referencia":"228",
+    "latitude":"-29°40.302'",
+    "longitude":"-51°09.458'"
+  },
+  {
+    "logradouro":"Santo Augusto",
+    "referencia":"102",
+    "latitude":"-29°40.201'",
+    "longitude":"-51°09.473'"
+  },
+  {
+    "logradouro":"Arcindo Quaresma",
+    "referencia":"327",
+    "latitude":"-29°40.304'",
+    "longitude":"-51°09.483'"
+  },
+  {
+    "logradouro":"Arcindo Quaresma",
+    "referencia":"91",
+    "latitude":"-29°40.382'",
+    "longitude":"-51°09.498'"
+  },
+  {
+    "logradouro":"Arcindo Quaresma",
+    "referencia":"200",
+    "latitude":"-29°40.412'",
+    "longitude":"-51°09.510'"
+  },
+  {
+    "logradouro":"Ernesto Arrué Bacedo",
+    "referencia":"215",
+    "latitude":"-29°40.426'",
+    "longitude":"-51°09.549'"
+  },
+  {
+    "logradouro":"Ernesto Arrué Bacedo",
+    "referencia":"348",
+    "latitude":"-29°40.457'",
+    "longitude":"-51°09.556'"
+  },
+  {
+    "logradouro":"Ernesto Arrué Bacedo",
+    "referencia":"349",
+    "latitude":"-29°40.457'",
+    "longitude":"-51°09.557'"
+  },
+  {
+    "logradouro":"Tramandaí",
+    "referencia":"103",
+    "latitude":"-29°40.512'",
+    "longitude":"-51°10.044'"
+  },
+  {
+    "logradouro":"Tramandaí",
+    "referencia":"715",
+    "latitude":"-29°40.503'",
+    "longitude":"-51°10.075'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"814",
+    "latitude":"-29°40.486'",
+    "longitude":"-51°10.091'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"641",
+    "latitude":"-29°40.429'",
+    "longitude":"-51°10.069'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"446",
+    "latitude":"-29°40.370'",
+    "longitude":"-51°10.050'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"453",
+    "latitude":"-29°40.371'",
+    "longitude":"-51°10.049'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"363",
+    "latitude":"-29°40.322'",
+    "longitude":"-51°05.034'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"Sn",
+    "latitude":"-29°40.271'",
+    "longitude":"-51°10.016'"
+  },
+  {
+    "logradouro":"Atílio Forte",
+    "referencia":"sn",
+    "latitude":"-29°40.270'",
+    "longitude":"-51°10.015 "
+  },
+  {
+    "logradouro":"Frederico Mentz",
+    "referencia":"112",
+    "latitude":"-29°40.234'",
+    "longitude":"-51°06.442'"
+  },
+  {
+    "logradouro":"Frederico Mentz",
+    "referencia":"49",
+    "latitude":"-29°40.239'",
+    "longitude":"-51°06.464'"
+  },
+  {
+    "logradouro":"Frederico Mentz",
+    "referencia":"22",
+    "latitude":"-29°40.171'",
+    "longitude":"-51°06.443'"
+  },
+  {
+    "logradouro":"Ibirubá",
+    "referencia":"454",
+    "latitude":"-29°40.127'",
+    "longitude":"-51°06.544'"
+  },
+  {
+    "logradouro":"Saldanha Marinho",
+    "referencia":"264",
+    "latitude":"-29°41.274'",
+    "longitude":"-51°07.490'"
+  },
+  {
+    "logradouro":"Frederico Linck",
+    "referencia":"113",
+    "latitude":"-29°41.263'",
+    "longitude":"-51°07.543'"
+  },
+  {
+    "logradouro":"Frederico Linck",
+    "referencia":"805",
+    "latitude":"-29°41.274'",
+    "longitude":"-51°08.059'"
+  },
+  {
+    "logradouro":"Frederico Linck",
+    "referencia":"491",
+    "latitude":"-29°41.284'",
+    "longitude":"-51°08.160'"
+  },
+  {
+    "logradouro":"Frederico Linck",
+    "referencia":"375",
+    "latitude":"-29°41.286'",
+    "longitude":"-51°08.212'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"174",
+    "latitude":"-29°41.237'",
+    "longitude":"-51°08.251'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"390",
+    "latitude":"-29°41.189'",
+    "longitude":"-51°08.301'"
+  },
+  {
+    "logradouro":"José de alencar",
+    "referencia":"293",
+    "latitude":"-29°41.121'",
+    "longitude":"-51°08.233'"
+  },
+  {
+    "logradouro":"José de alencar",
+    "referencia":"Triângulo",
+    "latitude":"-29°41.092'",
+    "longitude":"-51°08.151'"
+  },
+  {
+    "logradouro":"25 de Julho",
+    "referencia":"424",
+    "latitude":"-29°41.108'",
+    "longitude":"-51°08.137'"
+  },
+  {
+    "logradouro":"Tupiniquins",
+    "referencia":"440",
+    "latitude":"-29°41.397'",
+    "longitude":"-51°08.167'"
+  },
+  {
+    "logradouro":"Tupiniquins",
+    "referencia":"563",
+    "latitude":"-29°41.394'",
+    "longitude":"-51°08.098'"
+  },
+  {
+    "logradouro":"Bruno Dienstmann",
+    "referencia":"Pavilhão de Igreja",
+    "latitude":"-29°40.210'",
+    "longitude":"-51°09.599'"
+  },
+  {
+    "logradouro":"Epitácio de Sá",
+    "referencia":"979",
+    "latitude":"-29°41.445'",
+    "longitude":"-51°08.448'"
+  },
+  {
+    "logradouro":"Inconfidentes",
+    "referencia":"186",
+    "latitude":"-29°41.339'",
+    "longitude":"-51°08.506'"
+  },
+  {
+    "logradouro":"São Fernando",
+    "referencia":"37",
+    "latitude":"-29°40.195'",
+    "longitude":"-51°07.539'"
+  },
+  {
+    "logradouro":"São Fernando",
+    "referencia":"160",
+    "latitude":"-29°40.180'",
+    "longitude":"-51°07.540'"
+  },
+  {
+    "logradouro":"São Carlos",
+    "referencia":"234",
+    "latitude":"-29°40.185'",
+    "longitude":"-51°07.450'"
+  },
+  {
+    "logradouro":"Felipe Camarão",
+    "referencia":"69",
+    "latitude":"-29°40.130'",
+    "longitude":"-51°07.397'"
+  },
+  {
+    "logradouro":"Felipe Camarão",
+    "referencia":"56",
+    "latitude":"-29°40.129'",
+    "longitude":"-51°07.396'"
+  },
+  {
+    "logradouro":"Afonso Pena",
+    "referencia":"209",
+    "latitude":"-29°40.062'",
+    "longitude":"-51°07.407'"
+  },
+  {
+    "logradouro":"Afonso Pena",
+    "referencia":"349",
+    "latitude":"-29°40.007'",
+    "longitude":"-51°07.38' "
+  },
+  {
+    "logradouro":"Felipe Camarão",
+    "referencia":"216",
+    "latitude":"-29°40.074'",
+    "longitude":"-51°07.388'"
+  },
+  {
+    "logradouro":"Araújo Viana",
+    "referencia":"244",
+    "latitude":"-29°40.144'",
+    "longitude":"-51°07.450'"
+  },
+  {
+    "logradouro":"Araújo Viana",
+    "referencia":"372",
+    "latitude":"-29°40.139'",
+    "longitude":"-51°07.492'"
+  },
+  {
+    "logradouro":"Santo Ângelo",
+    "referencia":"291",
+    "latitude":"-29°40.168'",
+    "longitude":"-51°07.328'"
+  },
+  {
+    "logradouro":"São Carlos",
+    "referencia":"525",
+    "latitude":"-29°40.202'",
+    "longitude":"-51°07.337'"
+  },
+  {
+    "logradouro":"São Carlos",
+    "referencia":"613",
+    "latitude":"-29°40.209'",
+    "longitude":"-51°07.303'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"814",
+    "latitude":"-29°40.083'",
+    "longitude":"-51°07.321'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"787",
+    "latitude":"-29°40.085'",
+    "longitude":"-51°07.317'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"685",
+    "latitude":"-29°40.102'",
+    "longitude":"-51°07.275'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"640",
+    "latitude":"-29°40.104'",
+    "longitude":"-51°07.271'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"565",
+    "latitude":"-29°40.123'",
+    "longitude":"-51°07.238'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"544",
+    "latitude":"-29°40.128'",
+    "longitude":"-51°07.226'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"430",
+    "latitude":"-29°40.134'",
+    "longitude":"-51°07.194'"
+  },
+  {
+    "logradouro":"Demétrio Ribeiro",
+    "referencia":"300",
+    "latitude":"-29°40.142'",
+    "longitude":"-51°07.151'"
+  },
+  {
+    "logradouro":"Trenzinho",
+    "referencia":"115",
+    "latitude":"-29°41.478'",
+    "longitude":"-51°07.031'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"Sn",
+    "latitude":"-29°41.179'",
+    "longitude":"-51°08.661'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"392",
+    "latitude":"-29°41.150'",
+    "longitude":"-51°08.749'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1150",
+    "latitude":"-29°41.027'",
+    "longitude":"-51°08.801'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1380",
+    "latitude":"-29°40.960'",
+    "longitude":"-51°08.906'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"Frt 1660",
+    "latitude":"-29°40.918'",
+    "longitude":"-51°08.040'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1805",
+    "latitude":"-29°40.910'",
+    "longitude":"-51°08.124'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"2133",
+    "latitude":"-29°40.837'",
+    "longitude":"-51°09.287'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"4185",
+    "latitude":"-29°40.772'",
+    "longitude":"-51°09.362'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"Frt 4185",
+    "latitude":"-29°40.680'",
+    "longitude":"-51°09.444'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"depósito AES Sul",
+    "latitude":"-29°40.571'",
+    "longitude":"-51°09.510'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"4221",
+    "latitude":"-29°40.496'",
+    "longitude":"-51°09.556'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"51",
+    "latitude":"-29°43.116'",
+    "longitude":"-51°07.453'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"295",
+    "latitude":"-29°43.179'",
+    "longitude":"-51°07.380'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"276",
+    "latitude":"-29°43.176'",
+    "longitude":"-51°07.382'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"488",
+    "latitude":"-29°43.222'",
+    "longitude":"-51°07.330'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"532",
+    "latitude":"-29°43.231'",
+    "longitude":"-51°07.311'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"764",
+    "latitude":"-29°43.246'",
+    "longitude":"-51°07.254'"
+  },
+  {
+    "logradouro":"Antônio Kroeff Filho",
+    "referencia":"755",
+    "latitude":"-29°43.247'",
+    "longitude":"-51°07.258'"
+  },
+  {
+    "logradouro":"Humberto de Campos",
+    "referencia":"485",
+    "latitude":"-29°43.244'",
+    "longitude":"-51°07.189'"
+  },
+  {
+    "logradouro":"Humberto de Campos",
+    "referencia":"296",
+    "latitude":"-29°43.197'",
+    "longitude":"-51°07.232'"
+  },
+  {
+    "logradouro":"Humberto de Campos",
+    "referencia":"303",
+    "latitude":"-29°43.202'",
+    "longitude":"-51°07.231'"
+  },
+  {
+    "logradouro":"Flamengo",
+    "referencia":"135",
+    "latitude":"-29°43.161'",
+    "longitude":"-51°07.273'"
+  },
+  {
+    "logradouro":"Flamengo",
+    "referencia":"32",
+    "latitude":"-29°43.168'",
+    "longitude":"-51°07.275'"
+  },
+  {
+    "logradouro":"Flamengo",
+    "referencia":"302",
+    "latitude":"-29°43.113'",
+    "longitude":"-51°07.297'"
+  },
+  {
+    "logradouro":"Flamengo",
+    "referencia":"440",
+    "latitude":"-29°43.067'",
+    "longitude":"-51°07.318'"
+  },
+  {
+    "logradouro":"Flamengo",
+    "referencia":"Esq.Guia Lopes",
+    "latitude":"-29°43.056'",
+    "longitude":"-51°07.321'"
+  },
+  {
+    "logradouro":"Santa Clara do sul",
+    "referencia":"396",
+    "latitude":"-29°43.050'",
+    "longitude":"-51°07.285'"
+  },
+  {
+    "logradouro":"Santa Clara do sul",
+    "referencia":"227",
+    "latitude":"-29°43.107'",
+    "longitude":"-51°07.258'"
+  },
+  {
+    "logradouro":"Santa Clara do sul",
+    "referencia":"209",
+    "latitude":"-29°43.109'",
+    "longitude":"-51°07.257'"
+  },
+  {
+    "logradouro":"Santa Clara do sul",
+    "referencia":"70",
+    "latitude":"-29°43.143'",
+    "longitude":"-51°07.242'"
+  },
+  {
+    "logradouro":"Espumoso",
+    "referencia":"34",
+    "latitude":"-29°43.015'",
+    "longitude":"-51°07.214'"
+  },
+  {
+    "logradouro":"Espumoso",
+    "referencia":"64",
+    "latitude":"-29°43.024'",
+    "longitude":"-51°07.211'"
+  },
+  {
+    "logradouro":"Espumoso",
+    "referencia":"169",
+    "latitude":"-29°43.059'",
+    "longitude":"-51°07.195'"
+  },
+  {
+    "logradouro":"Espumoso",
+    "referencia":"179",
+    "latitude":"-29°43.060'",
+    "longitude":"-51°07.194'"
+  },
+  {
+    "logradouro":"Espumoso",
+    "referencia":"295",
+    "latitude":"-29°43.099'",
+    "longitude":"-51°07.191'"
+  },
+  {
+    "logradouro":"Visconde do Cairú",
+    "referencia":"225",
+    "latitude":"-29°43.165'",
+    "longitude":"-51°07.184'"
+  },
+  {
+    "logradouro":"Dr.Simões Lopes",
+    "referencia":"825",
+    "latitude":"-29°43.400'",
+    "longitude":"-51°08.252'"
+  },
+  {
+    "logradouro":"Assis Chateubriand",
+    "referencia":"119",
+    "latitude":"-29°43.433'",
+    "longitude":"-51°08.392'"
+  },
+  {
+    "logradouro":"Leo João Campani",
+    "referencia":"31",
+    "latitude":"-29°43.417'",
+    "longitude":"-51°08.436'"
+  },
+  {
+    "logradouro":"Leo João Campani",
+    "referencia":"119",
+    "latitude":"-29°43.430'",
+    "longitude":"-51°08.388'"
+  },
+  {
+    "logradouro":"Leo João Campani",
+    "referencia":"224",
+    "latitude":"-29°43.431'",
+    "longitude":"-51°08.350'"
+  },
+  {
+    "logradouro":"Dr.Simões Lopes",
+    "referencia":"606",
+    "latitude":"-29°43.408'",
+    "longitude":"-51°08.316'"
+  },
+  {
+    "logradouro":"Dr.Simões Lopes",
+    "referencia":"609",
+    "latitude":"-29°43.409'",
+    "longitude":"-51°08.241'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"1684",
+    "latitude":"-29°41.152'",
+    "longitude":"-51°07.326'"
+  },
+  {
+    "logradouro":"Marcílio Dias",
+    "referencia":"1136",
+    "latitude":"-29°41.162'",
+    "longitude":"-51°07.519'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"386",
+    "latitude":"-29°40.594'",
+    "longitude":"-51°06.593'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"459",
+    "latitude":"-29°41.001'",
+    "longitude":"-51°07.001'"
+  },
+  {
+    "logradouro":"Araruama",
+    "referencia":"Esq. Gomes Portinho",
+    "latitude":"-29°41.059'",
+    "longitude":"-51°06.575'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"814",
+    "latitude":"-29°41.113'",
+    "longitude":"-51°07.024'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"499",
+    "latitude":"-29°41.202'",
+    "longitude":"-51°07.023'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"333",
+    "latitude":"-29°42.263'",
+    "longitude":"-51°07.000'"
+  },
+  {
+    "logradouro":"São José do Norte",
+    "referencia":"230",
+    "latitude":"-29°41.278'",
+    "longitude":"-51°06.560'"
+  },
+  {
+    "logradouro":"Arroio Grande",
+    "referencia":"242",
+    "latitude":"-29°41.256'",
+    "longitude":"-51°06.491'"
+  },
+  {
+    "logradouro":"Santa Vitória do Palmar",
+    "referencia":"683",
+    "latitude":"-29°41.271'",
+    "longitude":"-51°06.445'"
+  },
+  {
+    "logradouro":"Igrejinha",
+    "referencia":"193",
+    "latitude":"-29°41.270'",
+    "longitude":"-51°06.411'"
+  },
+  {
+    "logradouro":"Nobel",
+    "referencia":"190",
+    "latitude":"-29°42.076'",
+    "longitude":"-51°05.529'"
+  },
+  {
+    "logradouro":"Nobel",
+    "referencia":"171",
+    "latitude":"-29°42.072'",
+    "longitude":"-51°05.533'"
+  },
+  {
+    "logradouro":"Nobel",
+    "referencia":"490",
+    "latitude":"-29°42.088'",
+    "longitude":"-51°05.402'"
+  },
+  {
+    "logradouro":"Nobel",
+    "referencia":"520",
+    "latitude":"-29°42.092'",
+    "longitude":"-51°05.411'"
+  },
+  {
+    "logradouro":"Carmem Miranda",
+    "referencia":"1180",
+    "latitude":"-29°42.117'",
+    "longitude":"-51°05.402'"
+  },
+  {
+    "logradouro":"Orozimbo Correia Mendes",
+    "referencia":"102",
+    "latitude":"-29°42.151'",
+    "longitude":"-51°05.376'"
+  },
+  {
+    "logradouro":"Distrito Federal",
+    "referencia":"66",
+    "latitude":"-29°41.429'",
+    "longitude":"-51°05.570'"
+  },
+  {
+    "logradouro":"Chavantes",
+    "referencia":"Esq.1° de Março",
+    "latitude":"-29°43.129'",
+    "longitude":"-51°08.129'"
+  },
+  {
+    "logradouro":"Chavantes",
+    "referencia":"180",
+    "latitude":"-29°43.136'",
+    "longitude":"-51°08.193'"
+  },
+  {
+    "logradouro":"Chavantes",
+    "referencia":"311",
+    "latitude":"-29°43.140'",
+    "longitude":"-51°08.241'"
+  },
+  {
+    "logradouro":"Chavantes",
+    "referencia":"609",
+    "latitude":"-29°43.145'",
+    "longitude":"-51°08.353'"
+  },
+  {
+    "logradouro":"Limoeiro",
+    "referencia":"279",
+    "latitude":"-29°43.102'",
+    "longitude":"-51°08.440'"
+  },
+  {
+    "logradouro":"Limoeiro",
+    "referencia":"106",
+    "latitude":"-29°43.093'",
+    "longitude":"-51°08.500'"
+  },
+  {
+    "logradouro":"Rio Guaíba",
+    "referencia":"158",
+    "latitude":"-29°43.000'",
+    "longitude":"-51°08.301'"
+  },
+  {
+    "logradouro":"Miranda",
+    "referencia":"606",
+    "latitude":"-29°43.053'",
+    "longitude":"-51°08.273'"
+  },
+  {
+    "logradouro":"Miranda",
+    "referencia":"350",
+    "latitude":"-29°43.042'",
+    "longitude":"-51°08.189'"
+  },
+  {
+    "logradouro":"Miranda",
+    "referencia":"91",
+    "latitude":"-29°43.012'",
+    "longitude":"-51°08.099'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"355",
+    "latitude":"-29°42.443'",
+    "longitude":"-51°08.504'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Revenda",
+    "latitude":"-29°42.141'",
+    "longitude":"-51°08.476'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Tenda do Abacaxi",
+    "latitude":"-29°42.032'",
+    "longitude":"-51°08.454'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Escadaria Liberato",
+    "latitude":"-29°41.482'",
+    "longitude":"-51°08.408'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"3031",
+    "latitude":"-29°41.263'",
+    "longitude":"-51°08.342'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"3193",
+    "latitude":"-29°41.188'",
+    "longitude":"-51°08.318'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"passarela",
+    "latitude":"-29°40.353'",
+    "longitude":"-51°08.322'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"viaduto Rincão",
+    "latitude":"-29°40.180'",
+    "longitude":"-51°08.334'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"",
+    "latitude":"-29°40.063'",
+    "longitude":"-51°08.343 "
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Shopping Platinum",
+    "latitude":"-29°39°483'",
+    "longitude":"-51°08.361'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"7119",
+    "latitude":"-29°39.183'",
+    "longitude":"-51°08.397'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"589",
+    "latitude":"-29°38.571'",
+    "longitude":"-51°08.383'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"loja vermelha",
+    "latitude":"-29°38.437'",
+    "longitude":"-51°08.357'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"antes da R. Granada",
+    "latitude":"-29°38.235'",
+    "longitude":"-51°08.318'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"4795",
+    "latitude":"-29°40.406'",
+    "longitude":"-51°09.625'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"Frt 8438",
+    "latitude":"-29°40.283'",
+    "longitude":"-51°09.801'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"8428",
+    "latitude":"-29°40.290'",
+    "longitude":"-51°09.811'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"5580",
+    "latitude":"-29°40.311'",
+    "longitude":"-51°09.726'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"2868",
+    "latitude":"-29°40.333'",
+    "longitude":"-51°09.711'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"2670",
+    "latitude":"-29°40.437'",
+    "longitude":"-51°09.609'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"2014",
+    "latitude":"-29°40.526'",
+    "longitude":"-51°09.544'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"4982",
+    "latitude":"-29°40.587'",
+    "longitude":"-51°09.513'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"4009",
+    "latitude":"-29°40.677'",
+    "longitude":"-51°09.460'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"4555",
+    "latitude":"-29°40.757'",
+    "longitude":"-51°09.389'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"2135",
+    "latitude":"-29°40.837'",
+    "longitude":"-51°09.310 "
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"s/n",
+    "latitude":"-29°40.844'",
+    "longitude":"-51°09.222'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1820",
+    "latitude":"-29°40.916'",
+    "longitude":"-51°09.140'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"Frt 1625",
+    "latitude":"-29°40.929'",
+    "longitude":"-51°09.031'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1430",
+    "latitude":"-29°40.968'",
+    "longitude":"-51°09.927'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"1112",
+    "latitude":"-29°40.056'",
+    "longitude":"-51°08.802'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"860",
+    "latitude":"-29°41.167'",
+    "longitude":"-51°08.726'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"618",
+    "latitude":"-29°40.208'",
+    "longitude":"-51°08.602'"
+  },
+  {
+    "logradouro":"Boa Saúde",
+    "referencia":"611",
+    "latitude":"-29°41.213'",
+    "longitude":"-51°08.593'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"65",
+    "latitude":"-29°41.220'",
+    "longitude":"-51°08.607'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"439",
+    "latitude":"-29°41.252'",
+    "longitude":"-51°08.845'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"543",
+    "latitude":"-29°41.262'",
+    "longitude":"-51°08.918'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"695",
+    "latitude":"-29°41.274'",
+    "longitude":"-51°09.012'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"839",
+    "latitude":"-29°41.281'",
+    "longitude":"-51°09.104'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"1059",
+    "latitude":"-29°41.296'",
+    "longitude":"-51°09.231'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"1315",
+    "latitude":"-29°41.315'",
+    "longitude":"-51°09.935'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"401",
+    "latitude":"-29°41.333'",
+    "longitude":"-51°09.474'"
+  },
+  {
+    "logradouro":"Estrada Pres. Lucena",
+    "referencia":"3028",
+    "latitude":"-29°41.406'",
+    "longitude":"-51°09.501'"
+  },
+  {
+    "logradouro":"Tubarão",
+    "referencia":"436",
+    "latitude":"-29°41.429'",
+    "longitude":"-51°09.448'"
+  },
+  {
+    "logradouro":"Tubarão",
+    "referencia":"Frt 307",
+    "latitude":"-29°41.360'",
+    "longitude":"-51°09.345'"
+  },
+  {
+    "logradouro":"Tubarão",
+    "referencia":"142",
+    "latitude":"-29°41.344'",
+    "longitude":"-51°09.279'"
+  },
+  {
+    "logradouro":"Duque Estrada",
+    "referencia":"133",
+    "latitude":"-29°41.397'",
+    "longitude":"-51°09.307'"
+  },
+  {
+    "logradouro":"Canadá",
+    "referencia":"299",
+    "latitude":"-29°41.445'",
+    "longitude":"-51°09.346'"
+  },
+  {
+    "logradouro":"Nova Friburgo",
+    "referencia":"147",
+    "latitude":"-29°41.423'",
+    "longitude":"-51°09.213'"
+  },
+  {
+    "logradouro":"Nova Friburgo",
+    "referencia":"20",
+    "latitude":"-29°41.420'",
+    "longitude":"-51°09.170'"
+  },
+  {
+    "logradouro":"Campos",
+    "referencia":"107",
+    "latitude":"-29°41.355'",
+    "longitude":"-51°09.140'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"850",
+    "latitude":"-29°41.279'",
+    "longitude":"-51°09.074'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"718",
+    "latitude":"-29°41.272'",
+    "longitude":"-51°09.004 "
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"562",
+    "latitude":"-29°41.261'",
+    "longitude":"-51°08.906'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"Frt 363",
+    "latitude":"-29°41.251'",
+    "longitude":"-51°08.745'"
+  },
+  {
+    "logradouro":"Osvaldo Cruz",
+    "referencia":"213",
+    "latitude":"-29°41.242'",
+    "longitude":"-51°08.705'"
+  },
+  {
+    "logradouro":"José do Patrocínio",
+    "referencia":"Sn",
+    "latitude":"-29°41.031'",
+    "longitude":"-51°08.273'"
+  },
+  {
+    "logradouro":"José do Patrocínio",
+    "referencia":"821",
+    "latitude":"-29°41031'",
+    "longitude":"-51°08154"
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"2302",
+    "latitude":"-29°40.857'",
+    "longitude":"-51°07.753'"
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"2349",
+    "latitude":"-29°41.128'",
+    "longitude":"-51°07.672'"
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"1780",
+    "latitude":"-29°41.441'",
+    "longitude":"-51°07.612'"
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"1514",
+    "latitude":"-29°41.599'",
+    "longitude":"-51°07.602'"
+  },
+  {
+    "logradouro":"Paraiba",
+    "referencia":"150",
+    "latitude":"-29°41.667'",
+    "longitude":"-51°07.666'"
+  },
+  {
+    "logradouro":"Mundo Novo",
+    "referencia":"1340",
+    "latitude":"-29°41.271'",
+    "longitude":"-51°06.159'"
+  },
+  {
+    "logradouro":"Karl Schimidt",
+    "referencia":"251",
+    "latitude":"-29°41.374'",
+    "longitude":"-51°06.041'"
+  },
+  {
+    "logradouro":"Karl Schimidt",
+    "referencia":"404",
+    "latitude":"-29°41.423'",
+    "longitude":"-51°06.051'"
+  },
+  {
+    "logradouro":"Karl Schimidt",
+    "referencia":"530",
+    "latitude":"-29°41.465'",
+    "longitude":"-51°06.055'"
+  },
+  {
+    "logradouro":"Karl Schimidt",
+    "referencia":"251",
+    "latitude":"-29°41.364'",
+    "longitude":"-51°06.043'"
+  },
+  {
+    "logradouro":"Karl Schimidt",
+    "referencia":"180",
+    "latitude":"-29°41.341'",
+    "longitude":"-51°06.041'"
+  },
+  {
+    "logradouro":"Beno Hugo Hack",
+    "referencia":"226",
+    "latitude":"-29°41.335'",
+    "longitude":"-51°41.332'"
+  },
+  {
+    "logradouro":"João Nunes da Silva",
+    "referencia":"68",
+    "latitude":"-29°41.340'",
+    "longitude":"-51°06.099'"
+  },
+  {
+    "logradouro":"João Nunes da Silva",
+    "referencia":"174",
+    "latitude":"-29°41.391'",
+    "longitude":"-51°06.110'"
+  },
+  {
+    "logradouro":"João Nunes da Silva",
+    "referencia":"122",
+    "latitude":"-29°41.365'",
+    "longitude":"-51°06.103'"
+  },
+  {
+    "logradouro":"João Nunes da Silva",
+    "referencia":"311",
+    "latitude":"-29°41.430'",
+    "longitude":"-51°06.112'"
+  },
+  {
+    "logradouro":"Mundo Novo",
+    "referencia":"415",
+    "latitude":"-29°41.433'",
+    "longitude":"-51°06.146'"
+  },
+  {
+    "logradouro":"Mundo Novo",
+    "referencia":"775",
+    "latitude":"-29°41.382'",
+    "longitude":"-51°06.242'"
+  },
+  {
+    "logradouro":"Mundo Novo",
+    "referencia":"946",
+    "latitude":"-29°41.385'",
+    "longitude":"-51°06.301 "
+  },
+  {
+    "logradouro":"Mundo Novo",
+    "referencia":"1189",
+    "latitude":"-29°41.362'",
+    "longitude":"-51°06.388'"
+  },
+  {
+    "logradouro":"Canela",
+    "referencia":"1369",
+    "latitude":"-29°41.330'",
+    "longitude":"-51°06.469'"
+  },
+  {
+    "logradouro":"Canela",
+    "referencia":"696",
+    "latitude":"-29°42.349'",
+    "longitude":"-51°07.425'"
+  },
+  {
+    "logradouro":"Canela",
+    "referencia":"530",
+    "latitude":"-29°42.303'",
+    "longitude":"-51°07.445'"
+  },
+  {
+    "logradouro":"Rodoviária Normélio Stabel",
+    "referencia":"",
+    "latitude":"-29°42.043'",
+    "longitude":"-51°08.078'"
+  },
+  {
+    "logradouro":"Ver. Adão Rodrigues",
+    "referencia":"1469",
+    "latitude":"-29°42.126'",
+    "longitude":"-51°08.341'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"3900",
+    "latitude":"-29°42.101",
+    "longitude":"-51°08.702'"
+  },
+  {
+    "logradouro":"Araxá",
+    "referencia":"336",
+    "latitude":"-29°42.140'",
+    "longitude":"-51°08.134'"
+  },
+  {
+    "logradouro":"Frederico Mentz",
+    "referencia":"232",
+    "latitude":"-29°40.179'",
+    "longitude":"-51°06.441'"
+  },
+  {
+    "logradouro":"Ibirubá",
+    "referencia":"489",
+    "latitude":"-29°40.127'",
+    "longitude":"-51°06.542'"
+  },
+  {
+    "logradouro":"Ibirubá",
+    "referencia":"430",
+    "latitude":"-29°40.119'",
+    "longitude":"-51°07.004'"
+  },
+  {
+    "logradouro":"Ibirubá",
+    "referencia":"485",
+    "latitude":"-29°40.117'",
+    "longitude":"-51°07.020'"
+  },
+  {
+    "logradouro":"João Capistrano de Abreu",
+    "referencia":"100",
+    "latitude":"-29°39.547'",
+    "longitude":"-51°07.011'"
+  },
+  {
+    "logradouro":"Caxambu",
+    "referencia":"700",
+    "latitude":"-29°40.002'",
+    "longitude":"-51°06.593'"
+  },
+  {
+    "logradouro":"Caxambu",
+    "referencia":"472",
+    "latitude":"-29°40.021'",
+    "longitude":"-51°07.001'"
+  },
+  {
+    "logradouro":"Caxambu",
+    "referencia":"324",
+    "latitude":"-29°40.075'",
+    "longitude":"-51°07.009'"
+  },
+  {
+    "logradouro":"Santos",
+    "referencia":"664",
+    "latitude":"-29°39.578",
+    "longitude":"-51°07.022'"
+  },
+  {
+    "logradouro":"Santos",
+    "referencia":"497",
+    "latitude":"-29°40.040'",
+    "longitude":"-51°07.032'"
+  },
+  {
+    "logradouro":"Santos",
+    "referencia":"225",
+    "latitude":"-29°40.128'",
+    "longitude":"-51°07.046'"
+  },
+  {
+    "logradouro":"Santos",
+    "referencia":"sn",
+    "latitude":"-29°40.171'",
+    "longitude":"-51°07.052'"
+  },
+  {
+    "logradouro":"Dr. Boleslau Casemiro Konarzewski",
+    "referencia":"304",
+    "latitude":"-29°43.091'",
+    "longitude":"-51°07.005'"
+  },
+  {
+    "logradouro":"Dr. Boleslau Casemiro Konarzewski",
+    "referencia":"316",
+    "latitude":"-29°43.097'",
+    "longitude":"-51°07.002'"
+  },
+  {
+    "logradouro":"Rudolfo Reinaldo Terra",
+    "referencia":"146",
+    "latitude":"-29°43.085'",
+    "longitude":"-51°06.544'"
+  },
+  {
+    "logradouro":"Alcina Pacheco",
+    "referencia":"208",
+    "latitude":"-29°43.052'",
+    "longitude":"-51°06.545'"
+  },
+  {
+    "logradouro":"Érico Veríssimo",
+    "referencia":"200",
+    "latitude":"-29°43.021'",
+    "longitude":"-51°06.573'"
+  },
+  {
+    "logradouro":"Dr. Boleslau Casemiro Konarzewski",
+    "referencia":"83",
+    "latitude":"-29°43.028'",
+    "longitude":"-51°07.034'"
+  },
+  {
+    "logradouro":"Agudo",
+    "referencia":"127",
+    "latitude":"-29°40.105'",
+    "longitude":"-51°06.483'"
+  },
+  {
+    "logradouro":"Santa Barbara",
+    "referencia":"206",
+    "latitude":"-29°40.065'",
+    "longitude":"-51°07.046'"
+  },
+  {
+    "logradouro":"Santa Barbara",
+    "referencia":"207",
+    "latitude":"-29°40.067'",
+    "longitude":"-51°07.044'"
+  },
+  {
+    "logradouro":"Santa Barbara",
+    "referencia":"304",
+    "latitude":"-29°40.061'",
+    "longitude":"-51°07.084'"
+  },
+  {
+    "logradouro":"Ruben Berta",
+    "referencia":"137",
+    "latitude":"-29°40.094'",
+    "longitude":"-51°07.118'"
+  },
+  {
+    "logradouro":"24 de Maio",
+    "referencia":"686",
+    "latitude":"-29°40.418'",
+    "longitude":"-51°08.064'"
+  },
+  {
+    "logradouro":"24 de Maio",
+    "referencia":"648",
+    "latitude":"-29°40.413'",
+    "longitude":"-51°08.078'"
+  },
+  {
+    "logradouro":"24 de Maio",
+    "referencia":"420",
+    "latitude":"-29°40.407'",
+    "longitude":"-51°08.164'"
+  },
+  {
+    "logradouro":"24 de Maio",
+    "referencia":"50",
+    "latitude":"-29°40.400'",
+    "longitude":"-51°08.303'"
+  },
+  {
+    "logradouro":"Aroeiras",
+    "referencia":"232",
+    "latitude":"-29°39.012'",
+    "longitude":"-51°08.921'"
+  },
+  {
+    "logradouro":"Hélio Helmuth Hellman",
+    "referencia":"201",
+    "latitude":"-29°38.541'",
+    "longitude":"-51°08.217'"
+  },
+  {
+    "logradouro":"Santuário das Mães",
+    "referencia":"523",
+    "latitude":"-29°39.164'",
+    "longitude":"-51°08.120'"
+  },
+  {
+    "logradouro":"Germano Friederich",
+    "referencia":"632",
+    "latitude":"-29°38.502'",
+    "longitude":"-51°07.581'"
+  },
+  {
+    "logradouro":"Germano Friederich",
+    "referencia":"805",
+    "latitude":"-29°38.523'",
+    "longitude":"-51°08.106'"
+  },
+  {
+    "logradouro":"Benjamim Altamayer",
+    "referencia":"492",
+    "latitude":"-29°38.531'",
+    "longitude":"-51°08.217'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"viaduto Rincão",
+    "latitude":"-29°39.245'",
+    "longitude":"-51°08.400'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Gerdau",
+    "latitude":"-29°39.354'",
+    "longitude":"-51°08.390'"
+  },
+  {
+    "logradouro":"BR -116",
+    "referencia":"Shopping Platinum",
+    "latitude":"-29°39.475'",
+    "longitude":"-51°08.377'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"1404",
+    "latitude":"-29°40.583'",
+    "longitude":"-51°08.094'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"1230",
+    "latitude":"-29°40.522'",
+    "longitude":"-51°08.131'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"1024",
+    "latitude":"-29°40.441'",
+    "longitude":"-51°08.184'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"Rissul",
+    "latitude":"-29°40.234'",
+    "longitude":"-51°08.188'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"86",
+    "latitude":"-29°40.152'",
+    "longitude":"-51°08.168'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"255",
+    "latitude":"-29°40.210'",
+    "longitude":"-51°08.181'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"Esq.Dinamarca",
+    "latitude":"-29°40.270'",
+    "longitude":"-51°08.212'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"979",
+    "latitude":"-29°40.426'",
+    "longitude":"-51°08.201'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"1453",
+    "latitude":"-29°40.555'",
+    "longitude":"-51°08.126'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"2317",
+    "latitude":"-29°41.204'",
+    "longitude":"-51°07.579'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"2935",
+    "latitude":"-29°41.397'",
+    "longitude":"-51°08.018'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"3333",
+    "latitude":"-29°41.502'",
+    "longitude":"-51°08.037'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"Himaco",
+    "latitude":"-29°41.593'",
+    "longitude":"-51°08.059'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"3875",
+    "latitude":"-29°42.090",
+    "longitude":"-51°08.071'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"4310",
+    "latitude":"-29°42.240'",
+    "longitude":"-51°08.058'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"4246",
+    "latitude":"-29°42.204'",
+    "longitude":"-51°08.051'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"4000",
+    "latitude":"-29°42.119'",
+    "longitude":"-51°08.059'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"3132",
+    "latitude":"-29°41.457'",
+    "longitude":"-51°08.019'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"2934",
+    "latitude":"-29°41.399'",
+    "longitude":"-51°08.006'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"2620",
+    "latitude":"-29°41.284'",
+    "longitude":"-51°07.583'"
+  },
+  {
+    "logradouro":"Av.Nações Unidas",
+    "referencia":"2050",
+    "latitude":"-29°41.120'",
+    "longitude":"-51°07.578'"
+  },
+  {
+    "logradouro":"Arlindo Júlio",
+    "referencia":"90",
+    "latitude":"-29°43.071'",
+    "longitude":"-51°07.113'"
+  },
+  {
+    "logradouro":"15 de Novembro",
+    "referencia":"34",
+    "latitude":"-29°40.244'",
+    "longitude":"-51°07.558'"
+  },
+  {
+    "logradouro":"Mem de Sá",
+    "referencia":"240",
+    "latitude":"-29°40.152'",
+    "longitude":"-51°07.582'"
+  },
+  {
+    "logradouro":"Mem de Sá",
+    "referencia":"443",
+    "latitude":"-29°40.098'",
+    "longitude":"-51°07.574'"
+  },
+  {
+    "logradouro":"Mem de Sá",
+    "referencia":"586",
+    "latitude":"-29°40.055'",
+    "longitude":"-51°07.557'"
+  },
+  {
+    "logradouro":"Mem de Sá",
+    "referencia":"733",
+    "latitude":"-29°40.602'",
+    "longitude":"-51°07.547'"
+  },
+  {
+    "logradouro":"Mem de Sá",
+    "referencia":"350",
+    "latitude":"-29°39584'",
+    "longitude":"-51°07.582'"
+  },
+  {
+    "logradouro":"Viscondede Ouro Preto",
+    "referencia":"462",
+    "latitude":"-29°40.085'",
+    "longitude":"-51°07.030'"
+  },
+  {
+    "logradouro":"Viscondede Ouro Preto",
+    "referencia":"294",
+    "latitude":"-29°40.150'",
+    "longitude":"-51°08.039'"
+  },
+  {
+    "logradouro":"Viscondede Ouro Preto",
+    "referencia":"20",
+    "latitude":"-29°40.239'",
+    "longitude":"-51°07.590'"
+  },
+  {
+    "logradouro":"15 de Novembro",
+    "referencia":"249",
+    "latitude":"-29°40.274'",
+    "longitude":"-51°08.019'"
+  },
+  {
+    "logradouro":"Barão do Rio Branco",
+    "referencia":"52",
+    "latitude":"-29°40.304'",
+    "longitude":"-51°08.031'"
+  },
+  {
+    "logradouro":"Seival",
+    "referencia":"Esq. Barão do Rio Branco",
+    "latitude":"-29°40.255'",
+    "longitude":"-51°08.063'"
+  },
+  {
+    "logradouro":"Machado de Assis",
+    "referencia":"467",
+    "latitude":"-29°41.417'",
+    "longitude":"-51°08.340'"
+  },
+  {
+    "logradouro":"Machado de Assis",
+    "referencia":"660",
+    "latitude":"-29°41.452'",
+    "longitude":"-51°08.381'"
+  },
+  {
+    "logradouro":"Machado de Assis",
+    "referencia":"875",
+    "latitude":"-29°41.519'",
+    "longitude":"-51°08.371'"
+  },
+  {
+    "logradouro":"Carazinho",
+    "referencia":"155",
+    "latitude":"-29°41.572'",
+    "longitude":"-51°08.379'"
+  },
+  {
+    "logradouro":"Monte Alegre",
+    "referencia":"210",
+    "latitude":"-29°42.045'",
+    "longitude":"-51°08.408'"
+  },
+  {
+    "logradouro":"Marechal Câmara",
+    "referencia":"801",
+    "latitude":"-29°42.010'",
+    "longitude":"-51°08.408'"
+  },
+  {
+    "logradouro":"Marechal Câmara",
+    "referencia":"531",
+    "latitude":"-29°41.513'",
+    "longitude":"-51°08.214'"
+  },
+  {
+    "logradouro":"Marechal Câmara",
+    "referencia":"251",
+    "latitude":"-29°41.432'",
+    "longitude":"-51°08.222'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"1447",
+    "latitude":"-29°44.012'",
+    "longitude":"-51°07.360'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"1589",
+    "latitude":"-29°44.014'",
+    "longitude":"-51°07.367'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"1727",
+    "latitude":"-29°44.089'",
+    "longitude":"-51°07.356'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"1775",
+    "latitude":"-29°44.095'",
+    "longitude":"-51°07.355'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"1885",
+    "latitude":"-29°44.144",
+    "longitude":"-51°07.365'"
+  },
+  {
+    "logradouro":"Eldorado",
+    "referencia":"2013",
+    "latitude":"-29°44.263'",
+    "longitude":"-51°07.384'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"640",
+    "latitude":"-29°44.069'",
+    "longitude":"-51°08.108'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"537",
+    "latitude":"-29°44.041'",
+    "longitude":"-51°08.132'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"412",
+    "latitude":"-29°44.013'",
+    "longitude":"-51°08.154'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"353",
+    "latitude":"-29°43.596'",
+    "longitude":"-51°08.174'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"260",
+    "latitude":"-29°43.568'",
+    "longitude":"-51°08.194'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"1114",
+    "latitude":"-29°44.197'",
+    "longitude":"-51°07.598'"
+  },
+  {
+    "logradouro":"Leopoldo wasun",
+    "referencia":"822",
+    "latitude":"-29°44.111'",
+    "longitude":"-51°08.070'"
+  },
+  {
+    "logradouro":"Vidal Brasil",
+    "referencia":"1538",
+    "latitude":"-29°41.166'",
+    "longitude":"-51°06.248'"
+  },
+  {
+    "logradouro":"Vidal Brasil",
+    "referencia":"1319",
+    "latitude":"-29°41.123'",
+    "longitude":"-51°06.239'"
+  },
+  {
+    "logradouro":"Gomes Portinho",
+    "referencia":"1448",
+    "latitude":"-29°41.073'",
+    "longitude":"-51°06.533'"
+  },
+  {
+    "logradouro":"Gomes Portinho",
+    "referencia":"1598",
+    "latitude":"-29°41.084'",
+    "longitude":"-51°06.412'"
+  },
+  {
+    "logradouro":"Oscar Ludwig",
+    "referencia":"748",
+    "latitude":"-29°41.193'",
+    "longitude":"-51°06.456'"
+  },
+  {
+    "logradouro":"Campos Sales",
+    "referencia":"229",
+    "latitude":"-29°41.114'",
+    "longitude":"-51°06.551'"
+  },
+  {
+    "logradouro":"Carioca",
+    "referencia":"229",
+    "latitude":"-29°41.067'",
+    "longitude":"-51°06.583'"
+  },
+  {
+    "logradouro":"Bento gonçalves",
+    "referencia":"55",
+    "latitude":"-29°39.541'",
+    "longitude":"-51°07.452'"
+  },
+  {
+    "logradouro":"Alberto Desback",
+    "referencia":"583",
+    "latitude":"-29°39.496'",
+    "longitude":"-51°07.296'"
+  },
+  {
+    "logradouro":"Rodoviária Centra B. Rio Branco",
+    "referencia":"178",
+    "latitude":"-29°41.038'",
+    "longitude":"-51°08.082'"
+  },
+  {
+    "logradouro":"Rodoviária velha",
+    "referencia":"49",
+    "latitude":"-29°41.048'",
+    "longitude":"-51°08.085'"
+  },
+  {
+    "logradouro":"5 de Abril",
+    "referencia":"58",
+    "latitude":"-29°41.169'",
+    "longitude":"-51°08.125'"
+  },
+  {
+    "logradouro":"5 de Abril",
+    "referencia":"Shopping Bourbon",
+    "latitude":"-29°41.122'",
+    "longitude":"-51°08.019'"
+  },
+  {
+    "logradouro":"Silveira Martins",
+    "referencia":"676",
+    "latitude":"-29°40.564'",
+    "longitude":"-51°07.310'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"350",
+    "latitude":"-29°42.543'",
+    "longitude":"-51°06.314'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"prainha",
+    "latitude":"-29°43.374'",
+    "longitude":"-51°05.388'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"Bombas",
+    "latitude":"-29°43.528'",
+    "longitude":"-51°05.109'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"2490",
+    "latitude":"-29°43.526'",
+    "longitude":"-51°04.561'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"2000",
+    "latitude":"-29°44.034'",
+    "longitude":"-51°04.436'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1560",
+    "latitude":"-29°44.097'",
+    "longitude":"-51°04.384'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1055",
+    "latitude":"-29°44.458'",
+    "longitude":"-51°04.110'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"5265",
+    "latitude":"-29°44.487'",
+    "longitude":"-51°04.009'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"4700",
+    "latitude":"-29°44.510'",
+    "longitude":"-51°03.502'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"4272",
+    "latitude":"-29°44.598'",
+    "longitude":"-51°03.409'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1477",
+    "latitude":"-29°45.385'",
+    "longitude":"-51°02.356'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1208",
+    "latitude":"-29°45.432'",
+    "longitude":"-51°02.284'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1023",
+    "latitude":"-29°40.478'",
+    "longitude":"-51°02.226'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"800",
+    "latitude":"-29°45.473'",
+    "longitude":"-51°02.173'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"1000",
+    "latitude":"-29°45.265'",
+    "longitude":"-51°01.229'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"559",
+    "latitude":"-29°45.334'",
+    "longitude":"-51°01.303'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"345",
+    "latitude":"-29°45.391'",
+    "longitude":"-51°01.329'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"136",
+    "latitude":"-29°45.410'",
+    "longitude":"-51°01.403'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"73",
+    "latitude":"-29°45.408",
+    "longitude":"-51°01.448'"
+  },
+  {
+    "logradouro":"Waldemar Boher",
+    "referencia":"75",
+    "latitude":"-29°45.409'",
+    "longitude":"-51°01.229'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"480",
+    "latitude":"-29°45.428'",
+    "longitude":"-51°01.482'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"422",
+    "latitude":"-29°45.442'",
+    "longitude":"-51°01.486'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"166",
+    "latitude":"-29°45.524'",
+    "longitude":"-51°01.479'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"165",
+    "latitude":"-29°45.525'",
+    "longitude":"-51°01.480'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"160",
+    "latitude":"-29°45.528'",
+    "longitude":"-51°01.484'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"95",
+    "latitude":"-29°45.530'",
+    "longitude":"-51°01.485'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"265",
+    "latitude":"-29°45.571'",
+    "longitude":"-51°01.555'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"445",
+    "latitude":"-29°45.555'",
+    "longitude":"-51°02.045'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"711",
+    "latitude":"-29°45.506'",
+    "longitude":"-51°02.139'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"660",
+    "latitude":"-29°45.486'",
+    "longitude":"-51°02.185'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"Col.Madre Benícia",
+    "latitude":"-29°45.457'",
+    "longitude":"-51°02.237'"
+  },
+  {
+    "logradouro":"José Afonso Hoher",
+    "referencia":"139",
+    "latitude":"-29°45.537'",
+    "longitude":"-51°02.197'"
+  },
+  {
+    "logradouro":"José Afonso Hoher",
+    "referencia":"Escola Bento Gonçalves",
+    "latitude":"-29°46.070'",
+    "longitude":"-51°02.211'"
+  },
+  {
+    "logradouro":"José Afonso Hoher",
+    "referencia":"567",
+    "latitude":"-29°46.119'",
+    "longitude":"-51°02.218'"
+  },
+  {
+    "logradouro":"Brasília",
+    "referencia":"845",
+    "latitude":"-29°46.088'",
+    "longitude":"-51°02.274'"
+  },
+  {
+    "logradouro":"Brasília",
+    "referencia":"517",
+    "latitude":"-29°46.030'",
+    "longitude":"-51°02.250'"
+  },
+  {
+    "logradouro":"Brasília",
+    "referencia":"368",
+    "latitude":"-29°45.560'",
+    "longitude":"-51°02.253'"
+  },
+  {
+    "logradouro":"Brasília",
+    "referencia":"135",
+    "latitude":"-29°45.510'",
+    "longitude":"-51°02.245'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1230",
+    "latitude":"-29°45.423'",
+    "longitude":"-51°02.291'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1507",
+    "latitude":"-29°45.378'",
+    "longitude":"-51°02.371'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1556",
+    "latitude":"-29°45.330'",
+    "longitude":"-51°02.465'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"1866",
+    "latitude":"-29°45.257'",
+    "longitude":"-51°02.531'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"2720",
+    "latitude":"-29°45.218'",
+    "longitude":"-51°03.020'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"2810",
+    "latitude":"-29°45.216'",
+    "longitude":"-51°03.035'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"3598",
+    "latitude":"-29°45.191'",
+    "longitude":"-51°03.121'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"3800",
+    "latitude":"-29°45.152'",
+    "longitude":"-51°03.178'"
+  },
+  {
+    "logradouro":"padre chagas",
+    "referencia":"12",
+    "latitude":"-29°41.174'",
+    "longitude":"-51°08.059'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"4117",
+    "latitude":"-29°45.069'",
+    "longitude":"-51°03.245'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"4304",
+    "latitude":"-29°45.020'",
+    "longitude":"-51°03.307'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"4017",
+    "latitude":"-29°44.511'",
+    "longitude":"-51°03.454'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"5060",
+    "latitude":"-29°44.481'",
+    "longitude":"-51°03.581'"
+  },
+  {
+    "logradouro":"Albino G. Konrath",
+    "referencia":"615",
+    "latitude":"-29°44.248'",
+    "longitude":"-51°03.582'"
+  },
+  {
+    "logradouro":"Albino G. Konrath",
+    "referencia":"350",
+    "latitude":"-29°44.322'",
+    "longitude":"-51°03.391'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"3870",
+    "latitude":"-29°44.504'",
+    "longitude":"-51°04.074'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1055",
+    "latitude":"-29°44.458'",
+    "longitude":"-51°04.103'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1300 aproximadamente",
+    "latitude":"-29°44.274'",
+    "longitude":"-51°04.233'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1560",
+    "latitude":"-29°44.097'",
+    "longitude":"-51°04.388'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"Pórtico",
+    "latitude":"-29°44.037'",
+    "longitude":"-51°04.429'"
+  },
+  {
+    "logradouro":"Arcedino Francisco da Conceição",
+    "referencia":"sn",
+    "latitude":"-29°43.506'",
+    "longitude":"-51°04.459'"
+  },
+  {
+    "logradouro":"Arnoldo Schimidt",
+    "referencia":"130",
+    "latitude":"-29°43.439'",
+    "longitude":"-51°05.008'"
+  },
+  {
+    "logradouro":"Nemes Barbosa",
+    "referencia":"85",
+    "latitude":"-29°43.470'",
+    "longitude":"-51°04.577'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"2500",
+    "latitude":"-29°43.524'",
+    "longitude":"-51°04.563'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"13",
+    "latitude":"-29°42.561'",
+    "longitude":"-51°06.288'"
+  },
+  {
+    "logradouro":"Estrada da Integração Leopoldo Petry",
+    "referencia":"1",
+    "latitude":"-29°42.535'",
+    "longitude":"-51°06.320'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"5535",
+    "latitude":"-29°44.540'",
+    "longitude":"-51°04.851'"
+  },
+  {
+    "logradouro":"João Aloísio Algayer",
+    "referencia":"5454",
+    "latitude":"-29°44.538'",
+    "longitude":"-51°04.080'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"2600",
+    "latitude":"-29°45.563'",
+    "longitude":"-51°03.436'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"5750",
+    "latitude":"-29°44.592'",
+    "longitude":"-51°04.141'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"Frt 2317",
+    "latitude":"-29°46.040'",
+    "longitude":"-51°03.385'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"2211",
+    "latitude":"-29°46.068'",
+    "longitude":"-51°03.334'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"1605",
+    "latitude":"-29°46.130'",
+    "longitude":"-51°03.093'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"1011",
+    "latitude":"-29°45.491'",
+    "longitude":"-51°03.058'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"85",
+    "latitude":"-29°45.367'",
+    "longitude":"-51°02.421'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"67",
+    "latitude":"-29°45.370'",
+    "longitude":"-51°02.423'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"275",
+    "latitude":"-29°45.522'",
+    "longitude":"-51°02.575'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"1037",
+    "latitude":"-29°45.548'",
+    "longitude":"-51°03.060'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"1878",
+    "latitude":"-29°46.123'",
+    "longitude":"-51°03.250'"
+  },
+  {
+    "logradouro":"Hottermound",
+    "referencia":"Entrada Rincão dos Caetanos",
+    "latitude":"-29°46.027'",
+    "longitude":"-51°03.384'"
+  },
+  {
+    "logradouro":"Estrada do Quilombo",
+    "referencia":"Esq. Jungbloot",
+    "latitude":"-29°46.283'",
+    "longitude":"-51°04.108'"
+  },
+  {
+    "logradouro":"Estrada do Quilombo",
+    "referencia":"1140",
+    "latitude":"-29°46.279'",
+    "longitude":"-51°04.265'"
+  },
+  {
+    "logradouro":"Estrada do Quilombo",
+    "referencia":"empresa Skippi",
+    "latitude":"-29°46.223'",
+    "longitude":"5104.438'"
+  },
+  {
+    "logradouro":"Victor Thiesem",
+    "referencia":"Ubs Lomba",
+    "latitude":"-29°45.220'",
+    "longitude":"-51°02.583'"
+  },
+  {
+    "logradouro":"Marthin Luther",
+    "referencia":"Com. Evangélica",
+    "latitude":"-29°45.283'",
+    "longitude":"-51°02.280'"
+  },
+  {
+    "logradouro":"Marthin Luther",
+    "referencia":"49",
+    "latitude":"-29°45.163'",
+    "longitude":"-51°02.264'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"6554",
+    "latitude":"-29°42.276'",
+    "longitude":"-51°01.147'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"3980",
+    "latitude":"-29°43.532'",
+    "longitude":"-51°01.348'"
+  },
+  {
+    "logradouro":"Afonso Strack",
+    "referencia":"3264",
+    "latitude":"-29°44.256'",
+    "longitude":"-51°01.419'"
+  },
+  {
+    "logradouro":"Ervino Diehl",
+    "referencia":"59",
+    "latitude":"-29°44.377'",
+    "longitude":"-51°03.560'"
+  },
+  {
+    "logradouro":"Ervino Diehl",
+    "referencia":"206",
+    "latitude":"-29°44.317'",
+    "longitude":"-51°03.554'"
+  },
+  {
+    "logradouro":"Rua 13 Lot. Santa Catarina",
+    "referencia":"16",
+    "latitude":"-29°44.237'",
+    "longitude":"-51°03.527'"
+  },
+  {
+    "logradouro":"Rua 12 Lot. Santa Catarina",
+    "referencia":"60",
+    "latitude":"-29°44.257'",
+    "longitude":"-51°03.543'"
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"4900",
+    "latitude":"-29°46.164'",
+    "longitude":"50°57.147' "
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"sn",
+    "latitude":"-29°46.085'",
+    "longitude":"50°57.003' "
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"Cemitério São João",
+    "latitude":"-29°46.182'",
+    "longitude":"-51°57.030'"
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"Sítio São Jacó",
+    "latitude":"-29°46.001'",
+    "longitude":"-51°59.045'"
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"e.c.Colonial",
+    "latitude":"-29°46.157'",
+    "longitude":"-51°59.427'"
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"2200",
+    "latitude":"-29°46.068'",
+    "longitude":"-51°59.518'"
+  },
+  {
+    "logradouro":"Francisco Waldemar Boher",
+    "referencia":"1545",
+    "latitude":"-29°45.533'",
+    "longitude":"-51°00.178'"
+  },
+  {
+    "logradouro":"Madre Regina",
+    "referencia":"495",
+    "latitude":"-29°40.165'",
+    "longitude":"-51°05.250'"
+  },
+  {
+    "logradouro":"Madre Regina",
+    "referencia":"659",
+    "latitude":"-29°40.106'",
+    "longitude":"-51°05.249'"
+  },
+  {
+    "logradouro":"Madre Regina",
+    "referencia":"1020",
+    "latitude":"-29°40.257'",
+    "longitude":"-51°05.232'"
+  },
+  {
+    "logradouro":"Madre Regina",
+    "referencia":"1370",
+    "latitude":"-29°40.003'",
+    "longitude":"-51°05.276'"
+  },
+  {
+    "logradouro":"Frederico Westphalen",
+    "referencia":"54",
+    "latitude":"-29°39.593'",
+    "longitude":"-51°05.358'"
+  },
+  {
+    "logradouro":"ERS-239",
+    "referencia":"Calçados Beira Rio",
+    "latitude":"-29°39.466'",
+    "longitude":"-51°06.012'"
+  },
+  {
+    "logradouro":"ERS-239",
+    "referencia":"3800",
+    "latitude":"-29°39.399'",
+    "longitude":"-51°06.114'"
+  },
+  {
+    "logradouro":"ERS-239",
+    "referencia":"2400",
+    "latitude":"-29°39.441'",
+    "longitude":"-51°07.187'"
+  },
+  {
+    "logradouro":"ERS-239",
+    "referencia":"1206",
+    "latitude":"-29°39.388'",
+    "longitude":"-51°07.537'"
+  },
+  {
+    "logradouro":"Alfredo Cassel",
+    "referencia":"-29°39.452",
+    "latitude":"-29°39.452'",
+    "longitude":"-51°07.153'"
+  },
+  {
+    "logradouro":"FEEVALE",
+    "referencia":"CAMPOS II",
+    "latitude":"-29°39.521",
+    "longitude":"-51°07.090'"
+  },
+  {
+    "logradouro":"FEEVALE",
+    "referencia":"CAMPOS II",
+    "latitude":"-29°39.524'",
+    "longitude":"-51°07.072'"
+  },
+  {
+    "logradouro":"João Capistrano de Abreu",
+    "referencia":"10",
+    "latitude":"-29°39.548'",
+    "longitude":"-51°07.011'"
+  },
+  {
+    "logradouro":"Germano Friederich",
+    "referencia":"620",
+    "latitude":"-29°39.538'",
+    "longitude":"-51°07.452'"
+  },
+  {
+    "logradouro":"Esperança",
+    "referencia":"80",
+    "latitude":"-29°38.525'",
+    "longitude":"-51°07.558'"
+  },
+  {
+    "logradouro":"Rua 10 lot Morada das Rosas",
+    "referencia":"sn",
+    "latitude":"-29°38.584'",
+    "longitude":"-51°07.549'"
+  },
+  {
+    "logradouro":"Rua 01 lot Morada das Rosas",
+    "referencia":"sn",
+    "latitude":"-29°39.060'",
+    "longitude":"-51°07.528'"
+  }
+]}

@@ -1,0 +1,9 @@
+<ion-view title="Map App">
+    <ion-content class="padding">
+        <button class="button button-small" ng-click="go('/')">Voltar</button>
+        <button class="button button-small" ng-click="go('/listaParadas')">Lista de pontos</button>
+        <section id="map" ng-controller="MapCtrl" >
+            <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"></div>
+        </section>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,11 @@
+<ion-view title="Lista de Paradas">
+    <ion-content class="padding">
+        <button class="button button-small" ng-click="go('/map')">Voltar</button>
+        <ul class="list">
+            <li class="item" ng-repeat="parada in paradas | orderBy:'logradouro'">
+                <p>Endereço: <strong>{{parada.logradouro}}</strong> ({{parada.referencia}})</p>
+                <p>Localização: {{parada.latitude}},{{parada.longitude}}</p>
+            </li>
+        </ul>
+    </ion-content>
+</ion-view>

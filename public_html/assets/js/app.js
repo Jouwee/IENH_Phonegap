@@ -5,9 +5,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 
 // Função que é executada quando o Phonegap estiver inicializado
 function onDeviceReady() {
-    console.log("ANGULAR: OnDeviceReady");
     window.navigator.geolocation.getCurrentPosition(function(g) {
-        console.log('ANGULAR: getCurrentPosition')
         coordenadas = g.coords;
     });
 
@@ -67,26 +65,60 @@ app.controller('ctrlMap', function(){
 
 app.controller('MapCtrl', function ($scope, $http, $timeout, $ionicLoading) {
     $ionicLoading.show();
+
+    $scope.myMarkers = [];
+    
+    function coordinateStringToGeocoding(string) {
+        var degrees = Number(string.substring(0, string.indexOf('°')));
+        var minutes = Number(string.substring(string.indexOf('°') + 1, string.indexOf("'"))) * 1.66666667;
+        var geocode;
+        if(degrees > 0) {
+            geocode = degrees + (minutes / 100);
+        } else {
+            geocode = degrees - (minutes / 100);
+        }
+        return geocode;
+    }
     
     $http.get('data/paradas.json').success(function(paradas){
         $scope.paradas = paradas.data;
         console.log("ANGULAR: arquivo paradas.json carregado em memória!");
+        var image = 'assets/img/bus-stop-16.png';
+        
+        $scope.paradas.forEach(function(target) {
+            
+            var latitude = coordinateStringToGeocoding(target.latitude);
+            var longitude = coordinateStringToGeocoding(target.longitude);
+            
+            $scope.myMarkers.push(new google.maps.Marker({
+                position: new google.maps.LatLng(latitude, longitude),
+                map : $scope.myMap,
+                title: target.logradouro,
+                icon: image
+            }));
+        });
+        
+        console.log($scope.myMarkers.length);
+        
+        console.log('done');
+        
+
     });
 
-        $scope.mapOptions = {
-            center: new google.maps.LatLng(coordenadas.latitude, coordenadas.longitude),
-            zoom: 15,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
+    $scope.mapOptions = {
+        center: new google.maps.LatLng(coordenadas.latitude, coordenadas.longitude),
+        zoom: 15,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
 
-    $scope.myMarkers = [];
-    
     $timeout(function(){
         $scope.myMarkers.push(new google.maps.Marker({
             position: new google.maps.LatLng(coordenadas.latitude, coordenadas.longitude),
             map : $scope.myMap,
             title: 'Meu ponto legal!'
         }));
+        
         $ionicLoading.hide();
     },300);
 });
+

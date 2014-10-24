@@ -2,8 +2,31 @@
     <ion-content class="padding">
         <button class="button button-small" ng-click="go('/')">Voltar</button>
         <section id="map" ng-controller="MapCtrl" >
-            <div ng-repeat="marker in myMarkers" ui-map-marker="myMarkers[$index]" ui-event="{'map-click': 'openMarkerInfo(marker)'}"></div>
+            <div ng-repeat="myMarkers" ui-map-marker="myMarkers[$index]" ui-event="{'map-click': 'openMarkerInfo(marker)'}"></div>
             <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"></div>
+            
+            <div class="list card" ng-if="selectedParada !== undefined">
+
+                <div class="item item-avatar">
+                    <img src="assets/img/bus-stop.png" alt="Bus stop info">
+                    <h2>{{selectedParada.referencia}}</h2>
+                    <p>{{selectedParada.logradouro}}</p>
+                </div>
+                <div class="item tabs tabs-secondary tabs-icon-left">
+                    <a class="tab-item" href="#">
+                        <i class="icon ion-thumbsup"></i>
+                        Like
+                    </a>
+                    <a class="tab-item" href="#">
+                        <i class="icon ion-chatbox"></i>
+                        Comment
+                    </a>
+                    <a class="tab-item" href="#">
+                        <i class="icon ion-share"></i>
+                        Share
+                    </a>
+                </div>
+            </div>
         </section>
     </ion-content>
 </ion-view>

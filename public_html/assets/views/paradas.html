@@ -1,0 +1,28 @@
+<ion-view title="Noia Stop Bus">
+    <ion-content class="padding">
+        <section ng-controller="ParadasCtrl">
+            <div class="list list-inset">
+                <label class="item item-input">
+                    <i class="icon ion-search placeholder-icon"></i>
+                    <input type="text" placeholder="Search" ng-model="filtro" ng-init="''">
+                </label>
+            </div>
+            <div class="list" ng-if="filtro !== ''">
+                <a class="item item-avatar" href="#" ng-repeat="parada in paradas | filter:filtro">
+                  <!--<img src="venkman.jpg">-->
+                  <h2>{{parada.referencia}}</h2>
+                  <p>{{parada.logradouro}}</p>
+                </a>
+            </div>
+            <div class="card" ng-if="filtro === ''">
+                <div class="item item-divider">
+                    Sem filtro!
+                </div>
+                <div class="item item-text-wrap">
+                    Digite um filtro acima para buscar paradas de ônibus em Novo Hamburgos
+                </div>
+            </div>
+        
+        </section>
+    </ion-content>
+</ion-view>

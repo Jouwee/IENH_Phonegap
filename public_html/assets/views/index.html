@@ -1,5 +1,12 @@
 <ion-view title="Noia Stop Bus">
     <ion-content class="padding">
-        <button class="button button-small" ng-click="go('/map')">Ir para o mapa</button>
+        <section ng-controller="IndexCtrl">
+            <button class="button button-small" ng-click="go('/map')">Ir para o mapa</button>
+            <button class="button button-small" ng-click="getAcceleration()">Pegar posição</button>
+
+            X: {{x}}
+            X: {{y}}
+            X: {{z}}
+        </section>
     </ion-content>
 </ion-view>
